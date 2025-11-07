@@ -112,7 +112,7 @@ translate spanish mg_reversi_s_comment_6428a0d0:
 translate spanish mg_reversi_s_comment_2a69147c:
 
     # s ebgccqa "We really seem to have {i}soooooooooo{/i} much in common, ehehe~"
-    s ebgccqa "Parece que tenemos 'taaanto' en común, je, je, je."
+    s ebgccqa "Parece que tenemos taaanto en común, je, je, je."
 
 # game/additional/mg_reversi.rpy:467
 translate spanish mg_reversi_s_comment_90524b53:
