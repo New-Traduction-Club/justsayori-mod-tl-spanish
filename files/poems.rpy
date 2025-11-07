@@ -262,3 +262,4 @@ init 5 python:
     reg_poem_trans("poem_prose", spanish_poem_prose)
     reg_poem_trans("poem_afterlight", spanish_poem_afterlight)
     reg_poem_trans("poem_val", spanish_poem_val)
+
