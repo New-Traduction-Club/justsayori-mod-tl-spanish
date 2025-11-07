@@ -14,7 +14,7 @@ translate spanish strings:
     old "Apply"
     new "Aplicar"
 
-    # game/core/outfiyamlint.rpy:108
+    # game/core/outfit_screen.rpy:108
     old "Categories"
     new "Categorías"
 
