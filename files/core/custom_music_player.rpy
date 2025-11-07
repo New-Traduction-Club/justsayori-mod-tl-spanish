@@ -2,7 +2,7 @@
 
 translate spanish strings:
 
-    # game/additional/rpc.rpy:15
-    old "Spending Time With Sayori"
+    # game/core/custom_music_player.rpy:259
+    old "Music Player"
     new ""
 

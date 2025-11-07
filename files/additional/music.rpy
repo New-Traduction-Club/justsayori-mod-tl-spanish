@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-22 19:42
+﻿# TODO: Translation updated at 2025-11-03 13:53
 
 # game/additional/music.rpy:46
 translate spanish music_menu_2fc0ee37:
@@ -30,7 +30,7 @@ translate spanish music_menu_e4cbf22c:
     # s "The sound is off, silly."
     s ""
 
-# game/additional/music.rpy:62
+# game/additional/music.rpy:61
 translate spanish music_menu_a3774311:
 
     # s "Shall I turn the sound on?" nointeract
@@ -76,11 +76,11 @@ translate spanish strings:
     old "No music"
     new ""
 
-    # game/additional/music.rpy:61
+    # game/additional/music.rpy:60
     old "Yes, please."
     new ""
 
-    # game/additional/music.rpy:61
+    # game/additional/music.rpy:60
     old "No thanks."
     new ""
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-22 19:42
+﻿# TODO: Translation updated at 2025-11-03 13:53
 
 # game/core/gifting.rpy:40
 translate spanish fae_cookies_168dfbd7:

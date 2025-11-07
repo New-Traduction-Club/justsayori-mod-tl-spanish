@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-22 19:42
+﻿# TODO: Translation updated at 2025-11-03 13:53
 
 # game/dialogs/script-moods.rpy:63
 translate spanish s_mood_angry_8ce23526:
@@ -762,6 +762,108 @@ translate spanish s_mood_depressed_6e370263:
     # s bbfcaab "I love you [player], forever and ever."
     s bbfcaab ""
 
+# game/dialogs/script-moods.rpy:413
+translate spanish s_mood_nostalgic_e25cec73:
+
+    # s abagaca "Nostalgic, huh? I know that feeling."
+    s abagaca ""
+
+# game/dialogs/script-moods.rpy:414
+translate spanish s_mood_nostalgic_6ae3a2d5:
+
+    # s abhaaca "Sometimes I find myself thinking about the literature club. Even the bittersweet moments feel warm now, in a weird way."
+    s abhaaca ""
+
+# game/dialogs/script-moods.rpy:415
+translate spanish s_mood_nostalgic_7d6e65e2:
+
+    # s bbaaaoa "It's like... you know something is over, and you can't go back, but you're happy it happened."
+    s bbaaaoa ""
+
+# game/dialogs/script-moods.rpy:416
+translate spanish s_mood_nostalgic_b8600718:
+
+    # s "Do you ever feel that way about certain memories, [player]?{nw}"
+    s ""
+
+# game/dialogs/script-moods.rpy:420
+translate spanish s_mood_nostalgic_70a09f98:
+
+    # s "Do you ever feel that way about certain memories, [player]?{fast}" nointeract
+    s "" nointeract
+
+# game/dialogs/script-moods.rpy:423
+translate spanish s_mood_nostalgic_e51972cc:
+
+    # s abbbaca "Exactly! It's a little sad, but also comforting."
+    s abbbaca ""
+
+# game/dialogs/script-moods.rpy:424
+translate spanish s_mood_nostalgic_eb1837cc:
+
+    # s abaaaca "It's proof that we've lived and felt things deeply. I think that's beautiful."
+    s abaaaca ""
+
+# game/dialogs/script-moods.rpy:425
+translate spanish s_mood_nostalgic_a624bad7:
+
+    # s abhaaca "It makes me appreciate the now even more."
+    s abhaaca ""
+
+# game/dialogs/script-moods.rpy:428
+translate spanish s_mood_nostalgic_a223117b:
+
+    # s bbaaaoa "I can understand that. Sometimes looking back is hard."
+    s bbaaaoa ""
+
+# game/dialogs/script-moods.rpy:429
+translate spanish s_mood_nostalgic_8d6072ad:
+
+    # s abhaaca "But it can also remind us of how far we've come, you know?"
+    s abhaaca ""
+
+# game/dialogs/script-moods.rpy:430
+translate spanish s_mood_nostalgic_ec22b94c:
+
+    # s abhfaoa "Just know that it's okay to feel that way. We can make new memories to look back on, right here."
+    s abhfaoa ""
+
+# game/dialogs/script-moods.rpy:434
+translate spanish s_mood_nostalgic_8887d642:
+
+    # s abhfmkb "Oh, [player]...!"
+    s abhfmkb ""
+
+# game/dialogs/script-moods.rpy:435
+translate spanish s_mood_nostalgic_addcb18a:
+
+    # s abagcka "Ehehehe, you always know just what to say to make me blush~"
+    s abagcka ""
+
+# game/dialogs/script-moods.rpy:436
+translate spanish s_mood_nostalgic_918ccadc:
+
+    # s abgccob "I feel the same way. Every moment with you feels special."
+    s abgccob ""
+
+# game/dialogs/script-moods.rpy:437
+translate spanish s_mood_nostalgic_505aebc9:
+
+    # s abfccab "These are the memories I'll treasure the most... forever and ever."
+    s abfccab ""
+
+# game/dialogs/script-moods.rpy:438
+translate spanish s_mood_nostalgic_4029b35d:
+
+    # s abgccaa "Thanks for sharing that with me. It feels like I can talk to you about anything."
+    s abgccaa ""
+
+# game/dialogs/script-moods.rpy:441
+translate spanish s_mood_nostalgic_6fc45aed:
+
+    # s abgccaa "Thanks for sharing that with me. It's nice to know we can talk about these things."
+    s abgccaa ""
+
 translate spanish strings:
 
     # game/dialogs/script-moods.rpy:52
@@ -818,5 +920,21 @@ translate spanish strings:
 
     # game/dialogs/script-moods.rpy:373
     old "Depressed"
+    new ""
+
+    # game/dialogs/script-moods.rpy:402
+    old "Nostalgic"
+    new ""
+
+    # game/dialogs/script-moods.rpy:419
+    old "Yes, some memories are bittersweet."
+    new ""
+
+    # game/dialogs/script-moods.rpy:419
+    old "I try not to think about the past too much."
+    new ""
+
+    # game/dialogs/script-moods.rpy:419
+    old "The best memories are the ones I'm making with you."
     new ""
 

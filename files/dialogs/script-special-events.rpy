@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-22 19:42
+﻿# TODO: Translation updated at 2025-11-03 13:53
 
 # game/dialogs/script-special-events.rpy:20
 translate spanish s_player_birthday_74afd826:

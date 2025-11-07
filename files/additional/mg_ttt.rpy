@@ -1,134 +1,134 @@
-﻿# TODO: Translation updated at 2025-09-22 19:42
+﻿# TODO: Translation updated at 2025-11-03 13:53
 
-# game/additional/mg_ttt.rpy:213
-translate spanish mg_ttt_s_comment_42001c4e:
+# game/additional/mg_ttt.rpy:246
+translate spanish mg_ttt_s_comment_2b37041d:
 
-    # s 2q "Okay, I win this game."
-    s 2q ""
+    # s abfcao "Okay, I win this game."
+    s abfcao ""
 
-# game/additional/mg_ttt.rpy:214
+# game/additional/mg_ttt.rpy:247
 translate spanish mg_ttt_s_comment_4e02270b:
 
     # s "You should have a better strategy next time."
     s ""
 
-# game/additional/mg_ttt.rpy:216
-translate spanish mg_ttt_s_comment_cf3eef3c:
+# game/additional/mg_ttt.rpy:249
+translate spanish mg_ttt_s_comment_8062643d:
 
-    # s 2r "Three in a row!"
-    s 2r ""
+    # s abfcao "Three in a row!"
+    s abfcao ""
 
-# game/additional/mg_ttt.rpy:217
-translate spanish mg_ttt_s_comment_6d99833d:
+# game/additional/mg_ttt.rpy:250
+translate spanish mg_ttt_s_comment_2f0c788a:
 
-    # s 2a "Just work on your tactics and try again."
-    s 2a ""
+    # s abhhao "Just work on your tactics and try again."
+    s abhhao ""
 
-# game/additional/mg_ttt.rpy:219
-translate spanish mg_ttt_s_comment_3e81d1f2:
+# game/additional/mg_ttt.rpy:252
+translate spanish mg_ttt_s_comment_3ec4fa89:
 
-    # s 2e "Don't worry!"
-    s 2e ""
+    # s abhaao "Don't worry!"
+    s abhaao ""
 
-# game/additional/mg_ttt.rpy:220
+# game/additional/mg_ttt.rpy:253
 translate spanish mg_ttt_s_comment_29120090:
 
     # s "Maybe you'll win next time."
     s ""
 
-# game/additional/mg_ttt.rpy:224
-translate spanish mg_ttt_s_comment_c9e6c07d:
+# game/additional/mg_ttt.rpy:257
+translate spanish mg_ttt_s_comment_aa09fab3:
 
-    # s 5b "Okay, you win!"
-    s 5b ""
+    # s abfcao "Okay, you win!"
+    s abfcao ""
 
-# game/additional/mg_ttt.rpy:225
-translate spanish mg_ttt_s_comment_63b23100:
+# game/additional/mg_ttt.rpy:258
+translate spanish mg_ttt_s_comment_6bf4f77d:
 
-    # s 5a "Next time I'll be more crafty."
-    s 5a ""
+    # s abfcao "Next time I'll be more crafty."
+    s abfcao ""
 
-# game/additional/mg_ttt.rpy:227
-translate spanish mg_ttt_s_comment_a68f46ca:
+# game/additional/mg_ttt.rpy:260
+translate spanish mg_ttt_s_comment_d81fdc32:
 
-    # s 1n "Oh, you've just got three in a row."
-    s 1n ""
+    # s abhhah "Oh, you've just got three in a row."
+    s abhhah ""
 
-# game/additional/mg_ttt.rpy:228
-translate spanish mg_ttt_s_comment_3e22e250:
+# game/additional/mg_ttt.rpy:261
+translate spanish mg_ttt_s_comment_086930ef:
 
-    # s 1l "You seem to be more clever than me."
-    s 1l ""
+    # s abhhah "You seem to be more clever than me."
+    s abhhah ""
 
-# game/additional/mg_ttt.rpy:229
-translate spanish mg_ttt_s_comment_532a0df9:
+# game/additional/mg_ttt.rpy:262
+translate spanish mg_ttt_s_comment_765cde86:
 
-    # s "Next time I'll try harder."
-    s ""
+    # s abfcaa "Next time I'll try harder."
+    s abfcaa ""
 
-# game/additional/mg_ttt.rpy:233
-translate spanish mg_ttt_s_comment_05b487b6:
+# game/additional/mg_ttt.rpy:266
+translate spanish mg_ttt_s_comment_6fe89b59:
 
-    # s 1k "Oh, the board is full."
-    s 1k ""
+    # s abhhah "Oh, the board is full."
+    s abhhah ""
 
-# game/additional/mg_ttt.rpy:234
+# game/additional/mg_ttt.rpy:267
 translate spanish mg_ttt_s_comment_ece20f36:
 
     # s "And no one got three in a row."
     s ""
 
-# game/additional/mg_ttt.rpy:235
-translate spanish mg_ttt_s_comment_d0db50f9:
+# game/additional/mg_ttt.rpy:268
+translate spanish mg_ttt_s_comment_ecb6e269:
 
-    # s "Let's just try again."
-    s ""
+    # s abfcaa "Let's just try again."
+    s abfcaa ""
 
-# game/additional/mg_ttt.rpy:237
-translate spanish mg_ttt_s_comment_2ab8610c:
+# game/additional/mg_ttt.rpy:270
+translate spanish mg_ttt_s_comment_f380363d:
 
-    # s 4q "Don't worry!"
-    s 4q ""
+    # s abfcaa "Don't worry!"
+    s abfcaa ""
 
-# game/additional/mg_ttt.rpy:238
+# game/additional/mg_ttt.rpy:271
 translate spanish mg_ttt_s_comment_74ea3341:
 
     # s "Tic-Tac-Toe games often end up in a draw."
     s ""
 
-# game/additional/mg_ttt.rpy:239
-translate spanish mg_ttt_s_comment_aa3ca34f:
+# game/additional/mg_ttt.rpy:272
+translate spanish mg_ttt_s_comment_5f2a5e9f:
 
-    # s "Maybe there will be a winner in the next game."
-    s ""
+    # s abhhas "Maybe there will be a winner in the next game."
+    s abhhas ""
 
-# game/additional/mg_ttt.rpy:243
-translate spanish mg_ttt_s_comment_375167e8:
+# game/additional/mg_ttt.rpy:276
+translate spanish mg_ttt_s_comment_d417c01a:
 
-    # s 4o "Are you giving up?"
-    s 4o ""
+    # s dbhham "Are you giving up?"
+    s dbhham ""
 
-# game/additional/mg_ttt.rpy:244
-translate spanish mg_ttt_s_comment_f6cb1c46:
+# game/additional/mg_ttt.rpy:277
+translate spanish mg_ttt_s_comment_a771785d:
 
-    # s 4c "Then we'll start again, but I'll get a point for this round."
-    s 4c ""
+    # s abhaaa "Then we'll start again, but I'll get a point for this round."
+    s abhaaa ""
 
-# game/additional/mg_ttt.rpy:246
-translate spanish mg_ttt_s_comment_e6e4b3f2:
+# game/additional/mg_ttt.rpy:279
+translate spanish mg_ttt_s_comment_70fd38da:
 
-    # s 3g "What's up, [player]?"
-    s 3g ""
+    # s nbhaao "What's up, [player]?"
+    s nbhaao ""
 
-# game/additional/mg_ttt.rpy:247
-translate spanish mg_ttt_s_comment_7dceabf0:
+# game/additional/mg_ttt.rpy:280
+translate spanish mg_ttt_s_comment_5074e5fe:
 
-    # s "Okay, I'll restart the game..."
-    s ""
+    # s abhaao "Okay, I'll restart the game..."
+    s abhaao ""
 
-# game/additional/mg_ttt.rpy:248
-translate spanish mg_ttt_s_comment_b6c1f00a:
+# game/additional/mg_ttt.rpy:281
+translate spanish mg_ttt_s_comment_b5e15f67:
 
-    # s 3r "But I'll be this round's winner."
-    s 3r ""
+    # s cbhhag "But I'll be this round's winner."
+    s cbhhag ""
 

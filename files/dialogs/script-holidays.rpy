@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-22 19:42
+﻿# TODO: Translation updated at 2025-11-03 13:53
 
 # game/dialogs/script-holidays.rpy:10
 translate spanish fae_player_bday_autoload_10ca24c7:

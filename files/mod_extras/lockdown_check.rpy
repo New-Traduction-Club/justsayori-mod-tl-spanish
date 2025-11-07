@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2025-09-22 19:42
+﻿# TODO: Translation updated at 2025-11-03 13:53
 
 # game/mod_extras/lockdown_check.rpy:17
 translate spanish lockdown_check_8f9b81eb:
