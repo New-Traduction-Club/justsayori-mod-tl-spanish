@@ -4,13 +4,13 @@ translate spanish strings:
 
     # game/additional/bgs.rpy:465
     old "Ready to change!"
-    new ""
+    new "¡Listo para cambiar!"
 
     # game/additional/bgs.rpy:473
     old "Select a background"
-    new ""
+    new "Selecciona un fondo"
 
     # game/additional/bgs.rpy:475
     old "Close"
-    new ""
+    new "Cerrar"
 
