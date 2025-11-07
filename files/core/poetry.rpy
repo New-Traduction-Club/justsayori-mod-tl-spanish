@@ -4,59 +4,59 @@
 translate spanish showpoem_d0816981:
 
     # "This feature is now depreciated. Please use {i}$ showmadechoice(){/i} instead.\nRefer to {u}poem_responses/poems.rpy{/u}on how to call a poem anew."
-    ""
+    "Esta característica está ahora obsoleta. Por favor, usa '$ showmadechoice()' en su lugar.\nConsulta {u}poem_responses/poems.rpy{/u} sobre cómo llamar a un poema de nuevo."
 
 translate spanish strings:
 
     # game/core/poetry.rpy:295
     old "The Last Flower"
-    new ""
+    new "La Última Flor"
 
     # game/core/poetry.rpy:549
     old "sunshine"
-    new ""
+    new "brillo"
 
     # game/core/poetry.rpy:549
     old "bottles"
-    new ""
+    new "botellas"
 
     # game/core/poetry.rpy:549
     old "flower"
-    new ""
+    new "flor"
 
     # game/core/poetry.rpy:549
     old "last"
-    new ""
+    new "último"
 
     # game/core/poetry.rpy:549
     old "angel"
-    new ""
+    new "ángel"
 
     # game/core/poetry.rpy:549
     old "fruits"
-    new ""
+    new "frutas"
 
     # game/core/poetry.rpy:549
     old "leaf"
-    new ""
+    new "hoja"
 
     # game/core/poetry.rpy:549
     old "prose"
-    new ""
+    new "prosa"
 
     # game/core/poetry.rpy:549
     old "afterlight"
-    new ""
+    new "resplandor"
 
     # game/core/poetry.rpy:549
     old "nevermind"
-    new ""
+    new "no importa"
 
     # game/core/poetry.rpy:575
     old "Let's talk about a poem"
-    new ""
+    new "Hablemos de un poema"
 
     # game/core/poetry.rpy:575
     old "Poetry"
-    new ""
+    new "Poesía"
 
