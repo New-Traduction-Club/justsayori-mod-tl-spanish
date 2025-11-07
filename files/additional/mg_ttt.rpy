@@ -58,7 +58,7 @@ translate spanish mg_ttt_s_comment_d81fdc32:
 translate spanish mg_ttt_s_comment_086930ef:
 
     # s abhhah "You seem to be more clever than me."
-    s abhhah "Pareces ser más listo que yo."
+    s abhhah "Pareces ser más inteligente que yo."
 
 # game/additional/mg_ttt.rpy:262
 translate spanish mg_ttt_s_comment_765cde86:
