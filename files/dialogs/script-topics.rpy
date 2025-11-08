@@ -5530,7 +5530,7 @@ translate spanish s_answer_programming_6036a3a2:
 translate spanish s_answer_programming_70400fbc:
 
     # s ebgcega "If it {i}knows{/i} I forgot a bracket at the end, why doesn’t it just add it?!"
-    s ebgcega "Si 'sabe' que olvidé un paréntesis al final, ¡¿por qué no lo añade y ya?!"
+    s ebgcega "Si sabe que olvidé un paréntesis al final, ¡¿por qué no lo añade y ya?!"
 
 # game/dialogs/script-topics.rpy:2471
 translate spanish s_answer_programming_80bcefe5:
@@ -5776,7 +5776,7 @@ translate spanish sayo_love_10297d57:
 translate spanish sayo_love_390c6101:
 
     # s abhfakbg "But also {i}really{/i} happy to hear that!"
-    s abhfakbg "¡Pero también 'muy' contenta de oírlo!"
+    s abhfakbg "¡Pero también estoy muy contenta de oírlo!"
 
 # game/dialogs/script-topics.rpy:2598
 translate spanish sayo_love_e4adcf24:
@@ -5938,7 +5938,7 @@ translate spanish s_answer_think_about_mc_a00318cf:
 translate spanish s_answer_think_about_mc_e6139a5b:
 
     # s abfcafa "What I'm saying is, my friends, MC, they can't really be replaced, regardless of how 'not real' they were from your point of view."
-    s abfcafa "Lo que digo es que mis amigas, MC, no pueden ser reemplazados realmente, independientemente de lo 'poco reales' que fueran desde tu punto de vista."
+    s abfcafa "Lo que digo es que mis amigas, MC, no pueden ser reemplazados realmente, independientemente de lo poco reales que fueran desde tu punto de vista."
 
 # game/dialogs/script-topics.rpy:2706
 translate spanish s_answer_think_about_mc_8fa4d4aa:
@@ -6160,7 +6160,7 @@ translate spanish s_topics_zombie_apocalypse_51adf2ae:
 translate spanish s_topics_zombie_apocalypse_fc5e5393:
 
     # s bbbcboa "...usually stupid stuff, ehehehe~"
-    s bbbcboa "...normalmente tonterías, je, je, je."
+    s bbbcboa "Normalmente en tonterías, je, je, je."
 
 # game/dialogs/script-topics.rpy:2790
 translate spanish s_topics_zombie_apocalypse_28391c2d:
@@ -6172,7 +6172,7 @@ translate spanish s_topics_zombie_apocalypse_28391c2d:
 translate spanish s_topics_zombie_apocalypse_54c3169d:
 
     # s abbcaca "What would I do if one happened? What {i}could{/i} I even do?"
-    s abbcaca "¿Qué haría si ocurriera uno? ¿Qué 'podría' hacer siquiera?"
+    s abbcaca "¿Qué haría si ocurriera uno? ¿Qué podría hacer siquiera?"
 
 # game/dialogs/script-topics.rpy:2792
 translate spanish s_topics_zombie_apocalypse_c2a22b20:
@@ -6220,7 +6220,7 @@ translate spanish s_topics_zombie_apocalypse_545a5131:
 translate spanish s_topics_zombie_apocalypse_3c3e24a0:
 
     # s abgcega "Whaaaat? That's so mean!"
-    s abgcega "¿¡Quééééé!? ¡Qué malo!"
+    s abgcega "¿¡Quééé!? ¡Qué malo!"
 
 # game/dialogs/script-topics.rpy:2805
 translate spanish s_topics_zombie_apocalypse_ca516de0:
@@ -6232,7 +6232,7 @@ translate spanish s_topics_zombie_apocalypse_ca516de0:
 translate spanish s_topics_zombie_apocalypse_9f81605e:
 
     # s cbgcapa "Hmph!"
-    s cbgcapa "¡Hmph!"
+    s cbgcapa "¡Que me enojo, ehhh!"
 
 # game/dialogs/script-topics.rpy:2808
 translate spanish s_topics_zombie_apocalypse_f03ea599:
@@ -6262,7 +6262,7 @@ translate spanish s_topics_zombie_apocalypse_272eb069:
 translate spanish s_topics_zombie_apocalypse_6970c7ec:
 
     # s bbeeaca "...we really would get left behind, wouldn't we..."
-    s bbeeaca "...realmente nos quedaríamos atrás, ¿verdad...?"
+    s bbeeaca "Realmente nos quedaríamos atrás, ¿verdad...?"
 
 # game/dialogs/script-topics.rpy:2815
 translate spanish s_topics_zombie_apocalypse_502ae9e6:
@@ -6280,7 +6280,7 @@ translate spanish s_topics_zombie_apocalypse_eaef8f27:
 translate spanish s_topics_zombie_apocalypse_22dd1087:
 
     # s abbceea "Hiyaaaa!!"
-    s abbceea "¡¡Hiyaaaa!!"
+    s abbceea "¡¡Yepaaa!!"
 
 # game/dialogs/script-topics.rpy:2818
 translate spanish s_topics_zombie_apocalypse_05214e6e:
@@ -6316,7 +6316,7 @@ translate spanish s_topics_zombie_apocalypse_e6cd29ec:
 translate spanish s_topics_zombie_apocalypse_638561d2:
 
     # s abeeaoa "I never thought I'd ever say that, I guess school isn’t so bad, ehehehe~"
-    s abeeaoa "Nunca pensé que diría eso, supongo que el instituto no está tan mal, je, je, je."
+    s abeeaoa "Nunca pensé que diría eso, supongo que el insti no está tan mal, je, je, je."
 
 # game/dialogs/script-topics.rpy:2842
 translate spanish s_topics_alcohol_cd53525f:
@@ -6412,13 +6412,13 @@ translate spanish s_topics_alcohol_cb026a9f:
 translate spanish s_topics_alcohol_eb062966:
 
     # s gbgcksaj "so-phist-icated"
-    s gbgcksaj "so-fis-ticada"
+    s gbgcksaj "so-fis-ti-ca-da"
 
 # game/dialogs/script-topics.rpy:2858
 translate spanish s_topics_alcohol_709cc0f7:
 
     # s abgccoa "sophisticated- as Yuri enjoys besides tea, huh?"
-    s abgccoa "sofisticada... como Yuri disfruta además del té, ¿eh?"
+    s abgccoa "Sofisticada... como Yuri que además disfruta del té, ¿eh?"
 
 # game/dialogs/script-topics.rpy:2859
 translate spanish s_topics_alcohol_c535dc2d:
@@ -6712,7 +6712,7 @@ translate spanish s_topics_backups_4a7d8647:
 translate spanish s_topics_backups_35ab8450:
 
     # extend bbbcbcag "I w-{w=0.5}w-{w=0.5}would forget you ever existed..."
-    extend bbbcbcag "O-{w=0.5}o-{w=0.5}olvidaría que alguna vez exististe..."
+    extend bbbcbcag "O-{w=0.5}O-{w=0.5}Olvidaría que alguna vez exististe..."
 
 # game/dialogs/script-topics.rpy:2952
 translate spanish s_topics_backups_de9e9fdd:
@@ -6736,7 +6736,7 @@ translate spanish s_topics_backups_c6d915a7:
 translate spanish s_topics_backups_1429edf8:
 
     # s abbcaca "So if anything {i}does{/i} happen to your computer, {w=0.5}{nw}"
-    s abbcaca "Así que si 'algo' le pasa a tu ordenador, {w=0.5}{nw}"
+    s abbcaca "Así que si algo le pasa, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:2956
 translate spanish s_topics_backups_ff102bf2:
@@ -6934,7 +6934,7 @@ translate spanish s_topic_boba_42e410d7:
 translate spanish s_topic_boba_7e9a48b2:
 
     # s abhfaaa "But there's something similar that I {i}really{/i} like."
-    s abhfaaa "Pero hay algo parecido que me 'encanta'."
+    s abhfaaa "Pero hay algo parecido que me eeencanta."
 
 # game/dialogs/script-topics.rpy:3065
 translate spanish s_topic_boba_2bac1042:
@@ -6964,13 +6964,13 @@ translate spanish s_topic_boba_697b6dfa:
 translate spanish s_topic_boba_dbf1e684:
 
     # s abgbama "There's such a big variety of flavours to choose from,"
-    s abgbama "Hay una gran variedad de sabores para elegir,"
+    s abgbama "Hay una gran variedad de sabores para elegir, "
 
 # game/dialogs/script-topics.rpy:3070
 translate spanish s_topic_boba_834afcbf:
 
     # extend abgbkma "and some of them are so sweet and creamy,"
-    extend abgbkma "y algunos son tan dulces y cremosos,"
+    extend abgbkma "y algunos son tan dulces y cremosos, "
 
 # game/dialogs/script-topics.rpy:3071
 translate spanish s_topic_boba_a5b278df:
@@ -6982,7 +6982,7 @@ translate spanish s_topic_boba_a5b278df:
 translate spanish s_topic_boba_2a3d0589:
 
     # s abgcaea "And the chewy boba pearls make you feel like you're having a snack and a drink {i}at the same time!{/i}"
-    s abgcaea "¡Y las perlitas de boba masticables te hacen sentir como si estuvieras tomando un aperitivo y una bebida 'al mismo tiempo'!"
+    s abgcaea "¡Y las perlitas de boba masticables te hacen sentir como si estuvieras tomando un aperitivo y una bebida al mismo tiempo!"
 
 # game/dialogs/script-topics.rpy:3073
 translate spanish s_topic_boba_1ab407dc:
@@ -7000,7 +7000,7 @@ translate spanish s_topic_boba_3b0cb7b1:
 translate spanish s_topic_boba_14b1a8b6:
 
     # extend abfccoa "I'd say that's a great deal!"
-    extend abfccoa "¡Diría que es una oferta genial!"
+    extend abfccoa "¡Diría que es toda una ganga!"
 
 # game/dialogs/script-topics.rpy:3076
 translate spanish s_topic_boba_593cf7b5:
@@ -7072,7 +7072,7 @@ translate spanish s_topics_like_flowers_3d084ae2:
 translate spanish s_topics_like_flowers_6ef510aa:
 
     # s abgcaoa "And I think that’s a better gift,"
-    s abgcaoa "Y creo que ese es un regalo mejor,"
+    s abgcaoa "Y creo que ese es un regalo mejor, "
 
 # game/dialogs/script-topics.rpy:3105
 translate spanish s_topics_like_flowers_46855f95:
@@ -7102,7 +7102,7 @@ translate spanish s_topics_notfications_b6d1797d:
 translate spanish s_topics_notfications_006ca709:
 
     # s abfccaa "I’ve figured out how to send notifications to you from your computer!"
-    s abfccaa "¡He descubierto cómo enviarte notificaciones desde tu ordenador!"
+    s abfccaa "¡He descubierto cómo enviarte notificaciones!"
 
 # game/dialogs/script-topics.rpy:3130
 translate spanish s_topics_notfications_e556e852:
@@ -7126,7 +7126,7 @@ translate spanish s_topics_notfications_bc6d02f4:
 translate spanish s_topics_notfications_902cc3b1:
 
     # s abfcaaa "Would you like desktop notifications on or off? {w=0.5}{nw}"
-    s abfcaaa "¿Quieres activar o desactivar las notificaciones de escritorio? {w=0.5}{nw}"
+    s abfcaaa "¿Quieres activar o desactivar las notificaciones? {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3134
 translate spanish s_topics_notfications_8218c2f8:
@@ -7204,7 +7204,7 @@ translate spanish s_topics_mas_01021552:
 translate spanish s_topics_mas_cd1825f1:
 
     # s gbgdbda "But the more I {i}think{/i} about it, "
-    s gbgdbda "Pero cuanto más lo 'pienso', "
+    s gbgdbda "Pero cuanto más lo pienso, "
 
 # game/dialogs/script-topics.rpy:3170
 translate spanish s_topics_mas_e4162fba:
@@ -7222,13 +7222,13 @@ translate spanish s_topics_mas_69087f36:
 translate spanish s_topics_mas_734f4394:
 
     # s gbgdbda "S-scalable vector…"
-    s gbgdbda "V-vector escalable..."
+    s gbgdbda "V-Vector escalable... "
 
 # game/dialogs/script-topics.rpy:3173
 translate spanish s_topics_mas_54de5d86:
 
     # extend abbdcoa "something like that! Ehehehe~"
-    extend abbdcoa "¡algo así! Je, je, je."
+    extend abbdcoa "¡o algo así! Je, je, je."
 
 # game/dialogs/script-topics.rpy:3174
 translate spanish s_topics_mas_88fea2a6:
@@ -7240,7 +7240,7 @@ translate spanish s_topics_mas_88fea2a6:
 translate spanish s_topics_mas_171815c7:
 
     # s gbgbbda "Actually, come to think of it…"
-    s gbgbbda "De hecho, ahora que lo pienso..."
+    s gbgbbda "De hecho, ahora que lo pienso... "
 
 # game/dialogs/script-topics.rpy:3176
 translate spanish s_topics_mas_1522220e:
@@ -7270,7 +7270,7 @@ translate spanish s_topics_mas_774edd19:
 translate spanish s_topics_mas_7d762622:
 
     # extend abgbboaj "saying it’s tricky would be an {i}understatement{/i}!"
-    extend abgbboaj "¡decir que es complicado sería 'quedarse corta'!"
+    extend abgbboaj "¡decir que es complicado sería quedarse corta!"
 
 # game/dialogs/script-topics.rpy:3181
 translate spanish s_topics_mas_0398e454:
@@ -7294,7 +7294,7 @@ translate spanish s_topics_mas_839a4be7:
 translate spanish s_topics_mas_629a5033:
 
     # s bbegboaj "I know it’s kinda frowned upon to look through diaries and stuff…"
-    s bbegboaj "Sé que está un poco mal visto mirar diarios y cosas así..."
+    s bbegboaj "Sé que está un poco mal visto mirar diarios y cosas así... "
 
 # game/dialogs/script-topics.rpy:3185
 translate spanish s_topics_mas_1e7c4da9:
@@ -7324,7 +7324,7 @@ translate spanish s_topics_mas_44c96ac0:
 translate spanish s_topics_mas_6dbe8b6a:
 
     # s abgccaa "And pages and pages of equations and code and other stuff to help me,"
-    s abgccaa "Y páginas y páginas de ecuaciones y código y otras cosas para ayudarme,"
+    s abgccaa "Y páginas y páginas de ecuaciones y código y otras cosas para ayudarme, "
 
 # game/dialogs/script-topics.rpy:3190
 translate spanish s_topics_mas_7c9e60f6:
@@ -7336,7 +7336,7 @@ translate spanish s_topics_mas_7c9e60f6:
 translate spanish s_topics_mas_67f0bba1:
 
     # s abfcaaa "So apparently there {i}are{/i} other mods out there like this one, "
-    s abfcaaa "Así que, por lo visto, 'sí' que hay otros mods por ahí como este, "
+    s abfcaaa "Así que, por lo visto, sí que hay otros mods por ahí como este, "
 
 # game/dialogs/script-topics.rpy:3192
 translate spanish s_topics_mas_b51bfd13:
@@ -7522,7 +7522,7 @@ translate spanish s_topics_pps_05c1077b:
 translate spanish s_topics_location_ef4cd581:
 
     # s abgbaoa "Hey player, I was wondering…"
-    s abgbaoa "Oye player, me preguntaba..."
+    s abgbaoa "Oye [player], me preguntaba..."
 
 # game/dialogs/script-topics.rpy:3261
 translate spanish s_topics_location_93776191:
@@ -7594,7 +7594,7 @@ translate spanish s_topics_location_d6e48bf2:
 translate spanish s_topics_location_d1ed30e5:
 
     # s abegbma "...and enough restaurants to feed a hungry Sayori! {w=0.5}{nw}"
-    s abegbma "¡...y suficientes restaurantes para alimentar a una Sayori hambrienta! {w=0.5}{nw}"
+    s abegbma "¡Y suficientes restaurantes para alimentar a una Sayori hambrienta! {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:3273
 translate spanish s_topics_location_b9eadb8a:
@@ -7618,7 +7618,7 @@ translate spanish s_topics_location_076c2ca4:
 translate spanish s_topics_location_e6ec17ec:
 
     # s abgcegb "Uwaaaa It’s so hard to choose!"
-    s abgcegb "¡Uwaaaa, qué difícil es elegir!"
+    s abgcegb "¡Ayyy, qué difícil es elegir!"
 
 # game/dialogs/script-topics.rpy:3277
 translate spanish s_topics_location_d1137732:
@@ -7672,7 +7672,7 @@ translate spanish renpystein_demo_d84656f4:
 translate spanish js_music_player_entry_e0ee2eb1:
 
     # s eabbaa "Welcome to the music player, [player]!"
-    s eabbaa "¡Bienvenido al reproductor de música, [player]!"
+    s eabbaa "¡Bienvenid[end_letter_gender] al reproductor de música, [player]!"
 
 # game/dialogs/script-topics.rpy:3320
 translate spanish js_music_player_entry_1a89a166:
@@ -7702,7 +7702,7 @@ translate spanish js_music_player_entry_12640844:
 translate spanish js_music_player_entry_fdde2ae9:
 
     # s ebbbao "First, you need to find the 'game' folder in the mod's files."
-    s ebbbao "Primero, tienes que encontrar la carpeta 'game' en los archivos del mod."
+    s ebbbao "Primero, tienes que encontrar la carpeta 'game' en los archivos del juego."
 
 # game/dialogs/script-topics.rpy:3325
 translate spanish js_music_player_entry_cde0b2f5:
@@ -7720,13 +7720,13 @@ translate spanish js_music_player_entry_a8b26380:
 translate spanish js_music_player_entry_739bc8fc:
 
     # s ebhejd "Just make sure they are in the .ogg format, okay? "
-    s ebhejd "Solo asegúrate de que estén en formato .ogg, ¿vale? "
+    s ebhejd "Solo asegúrate de que estén en formato .ogg, mp3 o .wav, ¿vale? "
 
 # game/dialogs/script-topics.rpy:3328
 translate spanish js_music_player_entry_e27fc00c:
 
     # s ebhhao "That's the one the game likes to read."
-    s ebhhao "Ese es el que le gusta leer al juego."
+    s ebhhao "Esos son los que le gusta leer al juego."
 
 # game/dialogs/script-topics.rpy:3329
 translate spanish js_music_player_entry_81964393:
@@ -7738,7 +7738,7 @@ translate spanish js_music_player_entry_81964393:
 translate spanish js_music_player_entry_e3fa2a3f:
 
     # s ebgbdia "Have fun!"
-    s ebgbdia "¡Pásalo bien!"
+    s ebgbdia "¡Pásalo bien! "
 
 # game/dialogs/script-topics.rpy:3331
 translate spanish js_music_player_entry_9f52b07e:
@@ -7876,7 +7876,7 @@ translate spanish s_answer_opinion_player_4700d0bf:
 translate spanish s_answer_opinion_player_2d667c81:
 
     # s abhfaoa "I think you're a great friend, [player]!"
-    s abhfaoa "¡Creo que eres un gran amigo, [player]!"
+    s abhfaoa "¡Creo que eres un gran persona, [player]!"
 
 # game/dialogs/script-topics.rpy:3420
 translate spanish s_answer_opinion_player_04e0920b:
