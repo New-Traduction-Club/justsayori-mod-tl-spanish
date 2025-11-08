@@ -3226,7 +3226,7 @@ translate spanish s_topic_marriage_cbec0e22:
 translate spanish s_topic_marriage_ed589187:
 
     # s "If it were possible, would you marry me?{fast}" nointeract
-    s "" nointeract
+    s "¿Si fuera posible, te casarías conmigo?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:1311
 translate spanish s_topic_marriage_0c5d6612:
@@ -3250,7 +3250,7 @@ translate spanish s_topic_marriage_6fac76a0:
 translate spanish s_topic_marriage_df31a6f5:
 
     # s "Although I don't think I’d be quite as good at all this \"housewife\" stuff ehehehe~"
-    s "Aunque no creo que se me diera tan bien todo eso de ser \"ama de casa\", je, je, je."
+    s "Aunque no creo que se me diera tan bien todo eso de ser ama de casa, je, je, je."
 
 # game/dialogs/script-topics.rpy:1315
 translate spanish s_topic_marriage_8b1d4b81:
@@ -3268,7 +3268,7 @@ translate spanish s_topic_marriage_a0a414e7:
 translate spanish s_topic_marriage_101bdd07:
 
     # s abbbhcb "But don't get the wrong idea and think I'd do {i}everything{/i} for you!"
-    s abbbhcb "¡Pero no te equivoques y pienses que lo haría 'todo' por ti!"
+    s abbbhcb "¡Pero no te equivoques y pienses que lo haría todo por ti!"
 
 # game/dialogs/script-topics.rpy:1318
 translate spanish s_topic_marriage_3ce3bd3a:
@@ -3520,7 +3520,7 @@ translate spanish s_topic_name_3cf23fbb:
 translate spanish s_topic_art_495d31a3:
 
     # s abhfaoa "I love seeing the fanart people have made for the game!"
-    s abhfaoa "¡Me encanta ver los 'fanarts' que la gente ha hecho para el juego!"
+    s abhfaoa "¡Me encanta ver los fanarts que la gente ha hecho para el juego!"
 
 # game/dialogs/script-topics.rpy:1434
 translate spanish s_topic_art_56e85ef9:
@@ -3532,7 +3532,7 @@ translate spanish s_topic_art_56e85ef9:
 translate spanish s_topic_art_a6683b46:
 
     # s abagaoa "Have you ever made any fanart, [player]?"
-    s abagaoa "¿Alguna vez has hecho algún 'fanart', [player]?"
+    s abagaoa "¿Alguna vez has hecho algún fanart, [player]?"
 
 # game/dialogs/script-topics.rpy:1436
 translate spanish s_topic_art_5ad1383f:
@@ -3586,13 +3586,13 @@ translate spanish s_topic_touches_cad422c6:
 translate spanish s_topic_merch_cab93dc5:
 
     # s abhfaca "Hey [player]! I have a random question."
-    s abhfaca "¡Oye, [player]! Tengo una pregunta aleatoria."
+    s abhfaca "¡Oye, [player]! Tengo una pregunta asi bien aleatoria."
 
 # game/dialogs/script-topics.rpy:1481
 translate spanish s_topic_merch_d8114bab:
 
     # s abhfaaa "Do you own any merchandise of stuff you're interested in?"
-    s abhfaaa "¿Tienes algún artículo de 'merchandising' de cosas que te interesen?"
+    s abhfaaa "¿Tienes algún artículo de merchandising de cosas que te interesen?"
 
 # game/dialogs/script-topics.rpy:1482
 translate spanish s_topic_merch_a19d3376:
@@ -3646,7 +3646,7 @@ translate spanish s_topic_oversleeping_751c80ad:
 translate spanish s_topic_oversleeping_7ec9634a:
 
     # s nbegaba "Although I was so preoccupied with making the rainclouds go away that I never really wanted it in the first place."
-    s nbegaba "Aunque, para empezar, estaba tan preocupada por hacer desaparecer los nublados que en realidad nunca me apetecía."
+    s nbegaba "Aunque, para empezar, estaba tan preocupada por hacer desaparecer las nubes de lluvia que en realidad nunca me apetecía."
 
 # game/dialogs/script-topics.rpy:1510
 translate spanish s_topic_oversleeping_b5c4a959:
@@ -3658,7 +3658,7 @@ translate spanish s_topic_oversleeping_b5c4a959:
 translate spanish s_topic_oversleeping_508ff416:
 
     # extend nbagmca "like for work or school."
-    extend nbagmca "como el del trabajo o el instituto."
+    extend nbagmca "como el de la chamba o el insti."
 
 # game/dialogs/script-topics.rpy:1512
 translate spanish s_topic_oversleeping_054dda28:
@@ -3748,7 +3748,7 @@ translate spanish s_topic_time_332eeaac:
 translate spanish s_topic_time_10928e7d:
 
     # s "But anyway, It’s pretty confusing to think that there's no way to \"measure\" time here anymore."
-    s "Pero bueno, es bastante confuso pensar que ya no hay forma de \"medir\" el tiempo aquí."
+    s "Pero bueno, es bastante confuso pensar que ya no hay forma de medir el tiempo aquí."
 
 # game/dialogs/script-topics.rpy:1548
 translate spanish s_topic_time_c56124c3:
@@ -3886,7 +3886,7 @@ translate spanish s_topic_questions_ef557923:
 translate spanish s_topic_questions_3002ae3f:
 
     # s abhaaca "Of course, there's so many different things you could ask me, so I checked out some AMAs for what you'd probably wanna know."
-    s abhaaca "Por supuesto, hay tantísimas cosas que podrías preguntarme, así que busqué algunos 'AMA' para saber lo que probablemente querrías saber."
+    s abhaaca "Por supuesto, hay tantísimas cosas que podrías preguntarme, así que busqué algunos 'Pregúntame lo que sea' para saber lo que probablemente querrías saber."
 
 # game/dialogs/script-topics.rpy:1608
 translate spanish s_topic_questions_023c49f0:
@@ -3898,7 +3898,7 @@ translate spanish s_topic_questions_023c49f0:
 translate spanish s_topic_questions_30cf0631:
 
     # s abaaaoa "One modder made a few AMAs about each of us and then compiled them into a separate mod, called {i}Doki Doki Interview Club{/i}."
-    s abaaaoa "Un 'modder' hizo algunos 'AMA' sobre cada una de nosotras y luego los recopiló en un mod aparte, llamado {i}Doki Doki Interview Club{/i}."
+    s abaaaoa "Un modder hizo algunas sobre cada una de nosotras y luego los recopiló en un mod aparte, llamado {i}Doki Doki Interview Club{/i}."
 
 # game/dialogs/script-topics.rpy:1610
 translate spanish s_topic_questions_c99f2065:
@@ -3934,13 +3934,13 @@ translate spanish s_topic_breakfast_29829b3d:
 translate spanish s_topic_breakfast_57c80a1c:
 
     # s abegmeaj "Mostly because they’re quick and I {i}probably{/i} wouldn’t end up burning the house down while cooking them, ehehehe~"
-    s abegmeaj "Más que nada porque son rápidos y 'probablemente' no acabaría quemando la casa mientras los cocino, je, je, je."
+    s abegmeaj "Más que nada porque son rápidos y probablemente no acabaría quemando la casa mientras los cocino, je, je, je."
 
 # game/dialogs/script-topics.rpy:1636
 translate spanish s_topic_breakfast_44952a2b:
 
     # s abhfaoa "I've seen fanart of me eating those too, {w=0.5}{nw}"
-    s abhfaoa "También he visto 'fanarts' míos comiendo eso, {w=0.5}{nw}"
+    s abhfaoa "También he visto fanarts míos comiendo eso, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1637
 translate spanish s_topic_breakfast_985c5bd1:
@@ -4072,19 +4072,19 @@ translate spanish s_topic_pizza_cec5135e:
 translate spanish s_topic_pizza_69a64ceb:
 
     # s abegmeaj "...within reasonable limits, of course, ehehehe~"
-    s abegmeaj "...dentro de unos límites razonables, claro, je, je, je."
+    s abegmeaj "Peeero... dentro de unos límites razonables, claro, je, je, je."
 
 # game/dialogs/script-topics.rpy:1696
 translate spanish s_topic_pizza_b7b7a683:
 
     # s abbbcaa "The only main ingredients are {i}dough{/i} and {i}cheese{/i}."
-    s abbbcaa "Los únicos ingredientes principales son la 'masa' y el 'queso'."
+    s abbbcaa "Los únicos ingredientes principales son la masa y el queso."
 
 # game/dialogs/script-topics.rpy:1697
 translate spanish s_topic_pizza_32682c12:
 
     # s abhfbma "A {cps=40}{i}whoooole lot{/i}{/cps} of cheese~"
-    s abhfbma "Un {cps=40}'montóóóón'{/cps} de queso."
+    s abhfbma "Un {cps=40}'montóóón'{/cps} de queso."
 
 # game/dialogs/script-topics.rpy:1698
 translate spanish s_topic_pizza_4cf362cb:
@@ -4138,13 +4138,13 @@ translate spanish s_topic_iceCream_a80fc0ff:
 translate spanish s_topic_iceCream_c4566c20:
 
     # s cbbbaoa "It’s {i}obviously{/i} the best cold food humanity has discovered yet!"
-    s cbbbaoa "¡Es 'obviamente' la mejor comida fría que la humanidad ha descubierto hasta ahora!"
+    s cbbbaoa "¡Es obviamente la mejor comida fría que la humanidad ha descubierto hasta ahora!"
 
 # game/dialogs/script-topics.rpy:1725
 translate spanish s_topic_iceCream_742918b5:
 
     # s abbbcaa "And there're lots and lots and lots of flavors and toppings to make it even better!"
-    s abbbcaa "¡Y hay montones y montones y montones de sabores y 'toppings' para hacerlo aún mejor!"
+    s abbbcaa "¡Y hay montones y montones y montones de sabores y toppings para hacerlo aún mejor!"
 
 # game/dialogs/script-topics.rpy:1726
 translate spanish s_topic_iceCream_a152c857:
@@ -4168,7 +4168,7 @@ translate spanish s_topic_iceCream_fc77c429:
 translate spanish s_topic_iceCream_8ec5cd62:
 
     # s abhfcaa "They both taste soooooo goood, ehehehe~"
-    s abhfcaa "Ambos están taaaaaan ricos, je, je, je."
+    s abhfcaa "Ambos están taaan ricos, je, je, je."
 
 # game/dialogs/script-topics.rpy:1730
 translate spanish s_topic_iceCream_331ff4d2:
@@ -4234,7 +4234,7 @@ translate spanish s_topic_tech_d785b396:
 translate spanish s_topic_cupcakes_1c832f67:
 
     # s abegboa "Natsuki’s cupcakes were always the best!"
-    s abegboa "¡Las magdalenas de Natsuki siempre eran las mejores!"
+    s abegboa "¡Los pastelitos de Natsuki siempre eran las mejores!"
 
 # game/dialogs/script-topics.rpy:1778
 translate spanish s_topic_cupcakes_c32bdb4e:
@@ -4252,7 +4252,7 @@ translate spanish s_topic_cupcakes_57a0d708:
 translate spanish s_topic_cupcakes_aabd9331:
 
     # s fbbbaaa "...but I had a better idea!"
-    s fbbbaaa "¡...pero tuve una idea mejor!"
+    s fbbbaaa "¡Pero tuve una idea mejor!"
 
 # game/dialogs/script-topics.rpy:1781
 translate spanish s_topic_cupcakes_cec5ef0b:
@@ -4318,7 +4318,7 @@ translate spanish s_answer_bday_30ba0e3e:
 translate spanish s_answer_bday_1b00d987:
 
     # s abbbaaa "I'm pretty sure it's {i}the 22nd of September{/i}, if I recall correctly."
-    s abbbaaa "Estoy bastante segura de que es el '22 de septiembre', si no recuerdo mal."
+    s abbbaaa "Estoy bastante segura de que es el 22 de septiembre, si no recuerdo mal."
 
 # game/dialogs/script-topics.rpy:1811
 translate spanish s_answer_bday_773dcf9f:
@@ -4354,7 +4354,7 @@ translate spanish s_answer_music_4f33690d:
 translate spanish s_answer_music_0ea40cee:
 
     # s abbbcaa "After all, I think it’s kinda silly to divide ‘good music’ into genres when I can appreciate different things about each of them."
-    s abbbcaa "Después de todo, creo que es un poco tonto dividir la 'buena música' en géneros cuando puedo apreciar cosas diferentes de cada uno."
+    s abbbcaa "Después de todo, creo que es un poco tonto dividir la buena música en géneros cuando puedo apreciar cosas diferentes de cada uno."
 
 # game/dialogs/script-topics.rpy:1835
 translate spanish s_answer_music_73889eae:
@@ -4474,7 +4474,7 @@ translate spanish s_answer_holidays_192c5a23:
 translate spanish s_answer_books_a90e096f:
 
     # s bbegmoaj "I’ve never really been much of a reader, to be honest."
-    s bbegmoaj ""
+    s bbegmoaj "Si te soy sincera, nunca he sido muy lectora."
 
 # game/dialogs/script-topics.rpy:1910
 translate spanish s_answer_books_719974fe:
@@ -4510,7 +4510,7 @@ translate spanish s_answer_poems_8ff290d7:
 translate spanish s_answer_poems_db7ae54e:
 
     # s abbcaca "But now I know his 'poems' were just a list of words you had selected to open CGs and progress the game."
-    s abbcaca "Pero ahora sé que sus 'poemas' eran solo una lista de palabras que habías seleccionado para abrir imágenes y avanzar en el juego."
+    s abbcaca "Pero ahora sé que sus poemas eran solo una lista de palabras que habías seleccionado para abrir imágenes y avanzar en el juego."
 
 # game/dialogs/script-topics.rpy:1934
 translate spanish s_answer_poems_4be5b48b:
@@ -4582,7 +4582,7 @@ translate spanish s_answer_god_e96c5e12:
 translate spanish s_answer_god_52cf6982:
 
     # s abbccoa "Blessed be {i}Dan Salvato{/i}, hallowed be thy name! Ehehehe~"
-    s abbccoa "¡Bendito sea 'Dan Salvato', santificado sea tu nombre! Je, je, je."
+    s abbccoa "¡Bendito sea Dan Salvato, santificado sea tu nombre! Je, je, je."
 
 # game/dialogs/script-topics.rpy:1984
 translate spanish s_answer_god_26ad5102:
@@ -4660,13 +4660,13 @@ translate spanish s_answer_cookies_e8ef4025:
 translate spanish s_answer_cookies_1dbf3dc5:
 
     # s abhfcaa "They were soooo gooood!"
-    s abhfcaa "¡Estaban taaaaaan ricas!"
+    s abhfcaa "¡Estaban taaan ricas!"
 
 # game/dialogs/script-topics.rpy:2033
 translate spanish s_answer_cookies_9ce921c7:
 
     # s abhfaoa "Especially the one with chocolate chips!"
-    s abhfaoa "¡Especialmente la de pepitas de chocolate!"
+    s abhfaoa "¡Especialmente la de chispas de chocolate!"
 
 # game/dialogs/script-topics.rpy:2034
 translate spanish s_answer_cookies_691cf4f7:
@@ -4750,7 +4750,7 @@ translate spanish s_answer_cookies_8254e183:
 translate spanish s_answer_cookies_89900d06:
 
     # s ebgbcoa "If you get some cookies yourself, it’d be like we’re having them together!"
-    s ebgbcoa "¡Si tú mismo consigues algunas galletas, será como si las estuviéramos tomando juntos!"
+    s ebgbcoa "¡Si tú mismo consigues algunas galletas, será como si las estuviéramos comiendo junt[end_letter_gender]s!"
 
 # game/dialogs/script-topics.rpy:2057
 translate spanish s_answer_cookies_c4c507b0:
@@ -4792,7 +4792,7 @@ translate spanish s_answer_chibi_0e218fe8:
 translate spanish s_answer_editing_e35e5239:
 
     # s bbegmaaj "I do it with the power of my mind... I think? Ehehehe~"
-    s bbegmaaj ""
+    s bbegmaaj "Lo hago con el poder de mi mente... ¡o eso creo! Je, je, je."
 
 # game/dialogs/script-topics.rpy:2121
 translate spanish s_answer_editing_feab7010:
@@ -4804,19 +4804,19 @@ translate spanish s_answer_editing_feab7010:
 translate spanish s_answer_editing_4b1ab256:
 
     # s abhabaca "It's kinda like telekinesis but much much cooler!"
-    s abhabaca ""
+    s abhabaca "¡Es como telequinesis, pero mucho, mucho más guay!"
 
 # game/dialogs/script-topics.rpy:2127
 translate spanish s_answer_editing_cb339a94:
 
     # s abbbmaaj "I'm still learning though, so there might be some bugs here and there, {w=0.5}{nw}"
-    s abbbmaaj ""
+    s abbbmaaj "Pero aún estoy aprendiendo, así que puede que haya algunos errores por aquí y por allá, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:2128
 translate spanish s_answer_editing_39ec2cc8:
 
     # extend abbbcaaj "but I’m getting better!"
-    extend abbbcaaj ""
+    extend abbbcaaj "¡pero estoy mejorando!"
 
 # game/dialogs/script-topics.rpy:2129
 translate spanish s_answer_editing_94876e5b:
@@ -4972,7 +4972,7 @@ translate spanish s_answer_opinion_5083fcc6:
 translate spanish s_answer_opinion_35e2f131:
 
     # s "Who do you wanna talk about?{fast}" nointeract
-    s "" nointeract
+    s "¿De quién quieres hablar?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:2243
 translate spanish s_answer_game_opinion_n_e1d8d50a:
