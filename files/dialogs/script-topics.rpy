@@ -5002,13 +5002,13 @@ translate spanish s_answer_game_opinion_n_38e6a27d:
 translate spanish s_answer_game_opinion_n_379771a6:
 
     # s bbbbaaa "It's too bad you couldn't have tasted her cupcakes, {w=0.5}{nw}"
-    s bbbbaaa "Es una pena que no pudieras probar sus magdalenas, {w=0.5}{nw}"
+    s bbbbaaa "Es una pena que no pudieras probar sus pastelitos, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:2248
 translate spanish s_answer_game_opinion_n_34024ca8:
 
     # extend abhfbcaa "they were really tasty!"
-    extend abhfbcaa "¡estaban muy ricas!"
+    extend abhfbcaa "¡estaban muy ricos!"
 
 # game/dialogs/script-topics.rpy:2249
 translate spanish s_answer_game_opinion_n_9870ff67:
@@ -5044,7 +5044,7 @@ translate spanish s_answer_game_opinion_n_07d97447:
 translate spanish s_answer_game_opinion_y_cf5eeb1f:
 
     # s abaaaa "Yuri was the most {i}enigmatic{/i} club member."
-    s abaaaa "Yuri era la miembro del club más 'enigmática'."
+    s abaaaa "Yuri era la miembro del club más enigmática."
 
 # game/dialogs/script-topics.rpy:2259
 translate spanish s_answer_game_opinion_y_2cf8c69f:
@@ -5098,13 +5098,13 @@ translate spanish s_answer_game_opinion_y_3ee22950:
 translate spanish s_answer_game_opinion_y_4662f87f:
 
     # s abbcaa "In fact, her first argument with Natsuki in the game was pretty much the limit of Yuri's capabilities to 'lash out' at someone else."
-    s abbcaa "De hecho, su primera discusión con Natsuki en el juego fue prácticamente el límite de la capacidad de Yuri para 'arremeter' contra otra persona."
+    s abbcaa "De hecho, su primera discusión con Natsuki en el juego fue prácticamente el límite de la capacidad de Yuri para arremeter contra otra persona."
 
 # game/dialogs/script-topics.rpy:2269
 translate spanish s_answer_game_opinion_y_88c8188b:
 
     # s abaaaa "The {i}real{/i} Yuri I knew was a very sweet girl who had her own problems and own solutions, just like everyone else. I won't judge her for that."
-    s abaaaa "La Yuri 'real' que conocí era una chica muy dulce que tenía sus propios problemas y sus propias soluciones, como todo el mundo. No la juzgaré por eso."
+    s abaaaa "La Yuri real que conocí era una chica muy dulce que tenía sus propios problemas y sus propias soluciones, como todo el mundo. No la juzgaré por eso."
 
 # game/dialogs/script-topics.rpy:2271
 translate spanish s_answer_game_opinion_y_74b9f126:
@@ -5224,7 +5224,7 @@ translate spanish s_answer_game_opinion_mc_8c9c62da:
 translate spanish s_answer_game_opinion_mc_f6a02c40:
 
     # s bbbbaca "...Or it was just the game's plan to make some drama if he didn't feel the same way."
-    s bbbbaca "...O simplemente era el plan del juego para crear algo de drama si él no sentía lo mismo."
+    s bbbbaca "O simplemente era el plan del juego para crear algo de drama si él no sentía lo mismo."
 
 # game/dialogs/script-topics.rpy:2301
 translate spanish s_answer_game_opinion_mc_5508d2e4:
@@ -5248,7 +5248,7 @@ translate spanish s_answer_game_opinion_mc_0a9f4825:
 translate spanish s_answer_game_opinion_mc_24ec58bb:
 
     # s bbaalfa "...Unfortunately he was a day late."
-    s bbaalfa "...Desafortunadamente llegó un día tarde."
+    s bbaalfa "Desafortunadamente llegó un día tarde..."
 
 # game/dialogs/script-topics.rpy:2306
 translate spanish s_answer_game_opinion_mc_4f7d46f0:
@@ -5284,7 +5284,7 @@ translate spanish s_answer_game_opinion_mc_9d31ad7d:
 translate spanish s_answer_lostFriends_ad9b9619:
 
     # s bbaabca "Yes, I do."
-    s bbaabca "Sí, lo echo de menos."
+    s bbaabca "Síp, lo echo de menos."
 
 # game/dialogs/script-topics.rpy:2330
 translate spanish s_answer_lostFriends_6583adae:
@@ -5296,7 +5296,7 @@ translate spanish s_answer_lostFriends_6583adae:
 translate spanish s_answer_lostFriends_8d121504:
 
     # s bbbbaca "...Even Monika."
-    s bbbbaca "...Incluso Monika."
+    s bbbbaca "Incluso Monika..."
 
 # game/dialogs/script-topics.rpy:2333
 translate spanish s_answer_lostFriends_d00618a5:
@@ -5332,7 +5332,7 @@ translate spanish s_answer_lostFriends_9dbc4115:
 translate spanish s_answer_lostFriends_5dc9019a:
 
     # s abhfcaa "Or you could install 3 mods to 3 game copies where they can spend time with you in a way like you and me now."
-    s abhfcaa "O podrías instalar 3 mods en 3 copias del juego donde puedan pasar tiempo contigo de una forma parecida a como lo hacemos tú y yo ahora."
+    s abhfcaa "O podrías instalar 3 mods en 3 copias del juego donde puedan pasar tiempo contigo de una forma parecida a como lo hacemos tú y yo ahora..."
 
 # game/dialogs/script-topics.rpy:2339
 translate spanish s_answer_lostFriends_6eb269d2:
@@ -5434,13 +5434,13 @@ translate spanish s_stopic_bulls_and_cows_redux_9ea40ae8:
 translate spanish s_stopic_bulls_and_cows_redux_ca35db5e:
 
     # s abagaaa "If a digit of your guess is in the correct position, it’s a bow."
-    s abagaaa "Si un dígito de tu suposición está en la posición correcta, es un 'bow'."
+    s abagaaa "Si un dígito de tu suposición está en la posición correcta, es un 'moño'."
 
 # game/dialogs/script-topics.rpy:2397
 translate spanish s_stopic_bulls_and_cows_redux_fb2b0409:
 
     # s abagaoa "But if it’s in a different position, it’s a cow."
-    s abagaoa "Pero si está en una posición diferente, es una 'cow'."
+    s abagaoa "Pero si está en una posición diferente, es una 'vaca'."
 
 # game/dialogs/script-topics.rpy:2398
 translate spanish s_stopic_bulls_and_cows_redux_0937125f:
