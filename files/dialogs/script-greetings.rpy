@@ -154,7 +154,7 @@ translate spanish s_greeting_2_ce1c58a5:
 translate spanish s_greeting_2_0ef08903:
 
     # s "{i}You fill my heart with joy, ehehehe~{/i}"
-    s "'Llenas mi corazón de alegría, je, je, je.'"
+    s "Llenas mi corazón de alegría, je, je, je."
 
 # game/dialogs/script-greetings.rpy:147
 translate spanish s_greeting_3_epo_2264a8f7:
