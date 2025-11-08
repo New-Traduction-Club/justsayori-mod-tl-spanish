@@ -1,6 +1,6 @@
 # justsayori-mod-tl-spanish
 
-Current Version: 1.1.1
+Current Version: 1.1.2
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
