@@ -708,3 +708,17 @@ translate spanish strings:
     old "I’m here, Sayori."
     new "Estoy aquí, Sayori."
 
+# TODO: Translation updated at 2025-11-08 08:47
+
+# game/dialogs/script-introduction.rpy:173
+translate spanish fae_intro_1_181e38ba:
+
+    # s abhaaoa "Oh, did I not mention? I think I have access to some of your phone now!"
+    s abhaaoa ""
+
+# game/dialogs/script-introduction.rpy:197
+translate spanish fae_intro_2_91d5d773:
+
+    # s "I managed to access the internet through your phone’s connection, and spent some time researching how my world works."
+    s ""
+

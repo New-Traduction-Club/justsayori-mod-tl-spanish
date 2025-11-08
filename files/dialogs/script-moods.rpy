@@ -150,7 +150,7 @@ translate spanish s_mood_hungry_9b230d72:
     # s bbfdmoaj "Though…{nw} "
     s bbfdmoaj "Aunque...{nw} "
 
-*# game/dialogs/script-moods.rpy:113
+# game/dialogs/script-moods.rpy:113
 translate spanish s_mood_hungry_366b8343:
 
     # extend bbfcaaa "That wouldn’t be a very good meal now, would it?{w=1.5}{nw}"
@@ -937,4 +937,12 @@ translate spanish strings:
     # game/dialogs/script-moods.rpy:419
     old "The best memories are the ones I'm making with you."
     new "Los mejores recuerdos son los que estoy creando contigo."
+
+# TODO: Translation updated at 2025-11-08 08:47
+
+# game/dialogs/script-moods.rpy:249
+translate spanish s_mood_tired_d1c3cdad:
+
+    # s bbgciaa "Don't worry about me, I completely understand if you need to spend some time away from the cellphone."
+    s bbgciaa ""
 

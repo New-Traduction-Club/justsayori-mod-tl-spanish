@@ -1080,3 +1080,11 @@ translate spanish s_poem_val_b23758a6:
     # s gbfcmpa "Hopefully for my next one, my skills will have improved a bit."
     s gbfcmpa "Espero que para la próxima, mis habilidades hayan mejorado un poco."
 
+# TODO: Translation updated at 2025-11-08 08:47
+
+# game/dialogs/script-poemresponses.rpy:235
+translate spanish s_poem_val_6a26f1f8:
+
+    # s bbagmda "But, I still feel a bit guilty because I think it's not good enough..."
+    s bbagmda ""
+

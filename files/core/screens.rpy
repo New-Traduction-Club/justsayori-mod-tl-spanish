@@ -286,3 +286,11 @@ translate spanish strings:
     old "Click 'Help' for the complete list."
     new "Haz clic en 'Ayuda' para ver la lista completa."
 
+# TODO: Translation updated at 2025-11-08 08:47
+
+translate spanish strings:
+
+    # game/core/screens.rpy:804
+    old "Random Chatter  "
+    new ""
+

@@ -86,7 +86,7 @@ translate spanish strings:
 
     # game/additional/music.rpy:78
     old "Nevermind."
-    new "Olvídalo."
+    new "No importa"
 
     # game/additional/music.rpy:112
     old "Now playing: {0}"
