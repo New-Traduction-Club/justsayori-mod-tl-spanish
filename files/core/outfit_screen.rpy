@@ -4,7 +4,7 @@ translate spanish strings:
 
     # game/core/outfit_screen.rpy:44
     old "Select an item"
-    new "Seleccionar una opción"
+    new "Selecciona una opción"
 
     # game/core/outfit_screen.rpy:70
     old "No items in this category."

@@ -8484,7 +8484,7 @@ translate spanish strings:
 
     # game/dialogs/script-topics.rpy:3429
     old "Outfit"
-    new "Atuendo"
+    new "Ropa"
 
 # TODO: Translation updated at 2025-11-08 08:47
 
