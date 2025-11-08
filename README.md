@@ -4,7 +4,7 @@ Current Version: 1.1.1
 
 ## Progreso
 <!-- PROGRESO_TRADUCCION_START -->
-**744 de 1143 líneas traducidas**
+**760 de 1143 líneas traducidas**
 
-**Progreso:** 65.09%
+**Progreso:** 66.49%
 <!-- PROGRESO_TRADUCCION_END -->
