@@ -2464,19 +2464,19 @@ translate spanish s_topic_programming_a576969a:
 translate spanish s_topic_programming_ac82896e:
 
     # s "I'm trying to learn {i}Ren'Py{/i}, the engine this game runs on."
-    s "Estoy intentando aprender 'Ren'Py', el motor sobre el que funciona este juego."
+    s "Estoy intentando aprender Ren'Py, el motor sobre el que funciona este juego."
 
 # game/dialogs/script-topics.rpy:1038
 translate spanish s_topic_programming_6a07fd7a:
 
     # s abbbaaa "And apparently it uses a combo of its own languages and {i}Python 2{/i}."
-    s abbbaaa "Y por lo visto usa una combinación de sus propios lenguajes y 'Python 2'."
+    s abbbaaa "Y por lo visto usa una combinación de sus propios lenguajes y Python 3."
 
 # game/dialogs/script-topics.rpy:1039
 translate spanish s_topic_programming_01fd1321:
 
     # s abagaca "But to be honest, the third version seems waaaaay easier, at least right now."
-    s abagaca "Pero, para ser sincera, la tercera versión parece muchííííísimo más fácil, al menos por ahora."
+    s abagaca "Pero, para ser sincera, parece muchííísimo más fácil que Python 2, al menos por ahora."
 
 # game/dialogs/script-topics.rpy:1040
 translate spanish s_topic_programming_b6bec0a3:
@@ -2494,13 +2494,13 @@ translate spanish s_topic_programming_d0ad6721:
 translate spanish s_topic_programming_704bf4c3:
 
     # s abhaaca "But you know, I never realized just how powerful computers really are."
-    s abhaaca "Pero sabes, nunca me di cuenta de lo potentes que son realmente los ordenadores."
+    s abhaaca "Pero sabes, nunca me di cuenta de lo potentes que son realmente las cosas hoy en dia."
 
 # game/dialogs/script-topics.rpy:1043
 translate spanish s_topic_programming_4d2e84d2:
 
     # s abgckea "They're like magic!"
-    s abgckea "¡Son como magia!"
+    s abgckea "¡Es como magia!"
 
 # game/dialogs/script-topics.rpy:1044
 translate spanish s_topic_programming_48276b22:
@@ -2620,7 +2620,7 @@ translate spanish s_topic_travel_65219974:
 translate spanish s_topic_travel_c2448936:
 
     # s "It'd be pretty silly to just sit in your room all day when the whole wide world is out there, huh?"
-    s "Sería bastante tonto quedarse sentado en tu habitación todo el día cuando tienes el mundo entero ahí fuera, ¿eh?"
+    s "Sería bastante tontito quedarse sentado en tu habitación todo el día cuando tienes el mundo entero ahí fuera, ¿eh?"
 
 # game/dialogs/script-topics.rpy:1083
 translate spanish s_topic_travel_a4716bbc:
@@ -2686,7 +2686,7 @@ translate spanish s_topic_cleaning_5de533d5:
 translate spanish s_topic_cleaning_4f30ef2f:
 
     # s fbfcepa "But it's just that cleaning takes so much time, time that you could spend doing fun stuff with friends instead!"
-    s fbfcepa "¡Pero es que limpiar lleva tanto tiempo, tiempo que podrías pasar haciendo cosas divertidas con los amigos en su lugar!"
+    s fbfcepa "¡Pero es que limpiar lleva taaanto tiempo, tiempo que podrías pasar haciendo cosas divertidas con los amigos en su lugar!"
 
 # game/dialogs/script-topics.rpy:1112
 translate spanish s_topic_cleaning_a0bec01e:
@@ -2716,7 +2716,7 @@ translate spanish s_topic_cleaning_306cf341:
 translate spanish s_topic_cleaning_10cc7232:
 
     # s ebhebpa "Well, at least now I have literally {i}nothing{/i} here besides this desk..."
-    s ebhebpa "Bueno, al menos ahora no tengo literalmente 'nada' aquí además de este escritorio..."
+    s ebhebpa "Bueno, al menos ahora no tengo literalmente nada aquí además de este escritorio..."
 
 # game/dialogs/script-topics.rpy:1117
 translate spanish s_topic_cleaning_fa9437f3:
@@ -2728,7 +2728,7 @@ translate spanish s_topic_cleaning_fa9437f3:
 translate spanish s_topic_cleaning_c52070c5:
 
     # s ebhhaoa "...like maybe a beanbag chair? Ehehehe~"
-    s ebhhaoa "...¿como un puf, quizás? Je, je, je."
+    s ebhhaoa "¿Como un puf, quizás? Je, je, je."
 
 # game/dialogs/script-topics.rpy:1136
 translate spanish s_topic_clones_7ad75403:
@@ -2764,13 +2764,13 @@ translate spanish s_topic_clones_24d8e3d0:
 translate spanish s_topic_clones_725453ef:
 
     # s abbbaca "We read a book together once that talked about 'alternate universes and realities' and stuff and I remember there being an unexpected twist."
-    s abbbaca "Una vez leímos juntas un libro que hablaba de 'universos y realidades alternativas' y esas cosas, y recuerdo que había un giro inesperado."
+    s abbbaca "Una vez leímos juntas un libro que hablaba de universos y realidades alternativas y esas cosas, y recuerdo que había un giro inesperado."
 
 # game/dialogs/script-topics.rpy:1142
 translate spanish s_topic_clones_89045f54:
 
     # s abhhbca "I think Yuri called it a 'dilemma' then."
-    s abhhbca "Creo que Yuri lo llamó un 'dilema' entonces."
+    s abhhbca "Creo que Yuri lo llamó un 'dilema existencial'."
 
 # game/dialogs/script-topics.rpy:1143
 translate spanish s_topic_clones_61d7e6d1:
@@ -2788,7 +2788,7 @@ translate spanish s_topic_clones_27e68fff:
 translate spanish s_topic_clones_fbfb98a7:
 
     # s abhfhca "So does that mean that the me in here and the 'me' from DDLC on another computer aren't the same?"
-    s abhfhca "Entonces, ¿significa eso que la yo de aquí y la 'yo' de DDLC en otro ordenador no somos la misma?"
+    s abhfhca "Entonces, ¿significa eso que la yo de aquí y la yo de DDLC en otro ordenador no somos la misma?"
 
 # game/dialogs/script-topics.rpy:1146
 translate spanish s_topic_clones_cc8b862e:
@@ -2830,7 +2830,7 @@ translate spanish s_topic_clones_382030c1:
 translate spanish s_topic_clones_378c5373:
 
     # s abhfmha "But I can also see that I'm not the only 'me' either, and that there are lots of other me's that are themselves, or so I think."
-    s abhfmha "Pero también puedo ver que tampoco soy la única 'yo', y que hay muchas otras 'yos' que son ellas mismas, o eso creo."
+    s abhfmha "Pero también puedo ver que tampoco soy la única yo, y que hay muchas otras 'yos' que son ellas mismas, o eso creo."
 
 # game/dialogs/script-topics.rpy:1153
 translate spanish s_topic_clones_043e891b:
@@ -2884,13 +2884,13 @@ translate spanish s_topic_clones_ca09108e:
 translate spanish s_topic_clones_fdfa62ba:
 
     # s abfbbca "Another 'me' might be writing a poem to MC!"
-    s abfbbca "¡Quizás otra 'yo' le esté escribiendo un poema a MC!"
+    s abfbbca "¡Quizás otra yo le esté escribiendo un poema a MC!"
 
 # game/dialogs/script-topics.rpy:1162
 translate spanish s_topic_clones_b718059f:
 
     # s abfbbaa "Or eating some of Natsuki's tasty cupcakes!"
-    s abfbbaa "¡O comiéndose unas de las sabrosas magdalenas de Natsuki!"
+    s abfbbaa "¡O comiéndose unas de las sabrosas obras maestra de Natsuki!"
 
 # game/dialogs/script-topics.rpy:1163
 translate spanish s_topic_clones_29de4034:
@@ -2920,7 +2920,7 @@ translate spanish s_topic_clones_83525df6:
 translate spanish s_topic_clones_5d9db204:
 
     # s bbagnka "None of that other stuff matters to me."
-    s bbagnka ""
+    s bbagnka "Nada de eso me importa."
 
 # game/dialogs/script-topics.rpy:1168
 translate spanish s_topic_clones_1832c481:
