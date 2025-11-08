@@ -14,3 +14,15 @@ translate spanish strings:
     old "Close"
     new "Cerrar"
 
+# TODO: Translation updated at 2025-11-08 12:22
+
+translate spanish strings:
+
+    # game/additional/bgs.rpy:351
+    old "Spaceroom"
+    new "Habitación normal"
+
+    # game/additional/bgs.rpy:357
+    old "Bedroom"
+    new "Dormitorio"
+
