@@ -256,9 +256,9 @@ translate spanish strings:
 
     # game/mod_extras/bsod.rpy:81
     old "  -  Address FBF92317 base at FBF102721, Datestamp 3d6dd67c"
-    new ""
+    new "  -  Address FBF92317 base at FBF102721, Datestamp 3d6dd67c"
 
     # game/mod_extras/bsod.rpy:202
     old "  https://www.metaverse-enterprise.com/network/metaverse-pci.html"
-    new ""
+    new "  https://www.metaverse-enterprise.com/network/metaverse-pci.html"
 

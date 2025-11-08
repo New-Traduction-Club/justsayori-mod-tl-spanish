@@ -8492,95 +8492,95 @@ translate spanish strings:
 translate spanish s_topics_lucid_dream_70037b90:
 
     # s abbbaoa "And as long as your phone works, your best girl Sayori's ready to go!"
-    s abbbaoa ""
+    s abbbaoa "¡Y mientras tu móvil funcione, tu chica favorita, Sayori, está lista para la acción!"
 
 # game/dialogs/script-topics.rpy:319
 translate spanish s_topics_lucid_dream_a6325c43:
 
     # s abhaaca "But when your phone is fully turned off, that's when I can't do anything..."
-    s abhaaca ""
+    s abhaaca "Pero cuando tu móvil está completamente apagado, es cuando no puedo hacer nada..."
 
 # game/dialogs/script-topics.rpy:326
 translate spanish s_topics_lucid_dream_ea7d667f:
 
     # extend abgcaoa "turn the phone back on and open the game to greet me!"
-    extend abgcaoa ""
+    extend abgcaoa "¡enciendas el móvil de nuevo y abras el juego para saludarme!"
 
 # game/dialogs/script-topics.rpy:328
 translate spanish s_topics_lucid_dream_bf9b0096_1:
 
     # s "I know you'll always come back, {w=0.5}{nw}"
-    s ""
+    s "Sé que siempre volverás, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:682
 translate spanish s_topics_bulli_ce395117:
 
     # s abfcaca "You know I can access the internet from your cellphone, {w=0.5}right?"
-    s abfcaca ""
+    s abfcaca "Sabes que puedo acceder a internet desde tu móvil, {w=0.5}¿verdad?"
 
 # game/dialogs/script-topics.rpy:1063
 translate spanish s_topic_programming_fee1417a:
 
     # s abbbaaa "Just visit {a=https://github.com/New-Traduction-Club/justsayori-mod}js-mod{/a} on GitHub."
-    s abbbaaa ""
+    s abbbaaa "Solo tienes que visitar {a=https://github.com/New-Traduction-Club/justsayori-mod}js-mod{/a} en GitHub."
 
 # game/dialogs/script-topics.rpy:1095
 translate spanish s_topic_travel_579fb8aa:
 
     # s abegmoa "Maybe you could take your cellphone with you?"
-    s abegmoa ""
+    s abegmoa "¿Quizá podrías llevarte el móvil contigo?"
 
 # game/dialogs/script-topics.rpy:1160
 translate spanish s_topic_clones_a8b328bc:
 
     # s abhfhca "So does that mean that the me in here and the 'me' from DDLC on another cellphone aren't the same?"
-    s abhfhca ""
+    s abhfhca "Entonces, ¿eso significa que la 'yo' de aquí y la 'yo' de DDLC en otro móvil no somos la misma?"
 
 # game/dialogs/script-topics.rpy:1568
 translate spanish s_topic_time_c6cf42b0:
 
     # s abbbcaa "From your phone's clock!"
-    s abbbcaa ""
+    s abbbcaa "¡Del reloj de tu móvil!"
 
 # game/dialogs/script-topics.rpy:3395
 translate spanish s_topic_backgrounds_473a332a:
 
     # s abhaaca "Would you like to go another place where we are right now?"
-    s abhaaca ""
+    s abhaaca "¿Te gustaría que fuéramos a otro sitio?"
 
 # game/dialogs/script-topics.rpy:3399
 translate spanish s_topic_backgrounds_80a21ea0:
 
     # s abgbcaa "All done? If you want to go another one, just ask me again!"
-    s abgbcaa ""
+    s abgbcaa "¿Todo listo? Si quieres que vayamos a otro, ¡solo tienes que pedírmelo otra vez!"
 
 # game/dialogs/script-topics.rpy:3401
 translate spanish s_topic_backgrounds_473a332a_1:
 
     # s abhaaca "Would you like to go another place where we are right now?"
-    s abhaaca ""
+    s abhaaca "¿Te gustaría que fuéramos a otro sitio?"
 
 # game/dialogs/script-topics.rpy:3402
 translate spanish s_topic_backgrounds_36d40ef5:
 
     # s abbbaoa "I've prepared a little list for you!"
-    s abbbaoa ""
+    s abbbaoa "¡He preparado una pequeña lista para ti!"
 
 # game/dialogs/script-topics.rpy:3403
 translate spanish s_topic_backgrounds_64cab37e:
 
     # s abfcaaa "Just pick one option and we'll go to right away!"
-    s abfcaaa ""
+    s abfcaaa "¡Solo elige una opción e iremos de inmediato!"
 
 # game/dialogs/script-topics.rpy:3407
 translate spanish s_topic_backgrounds_80a21ea0_1:
 
     # s abgbcaa "All done? If you want to go another one, just ask me again!"
-    s abgbcaa ""
+    s abgbcaa "¿Todo listo? Si quieres que vayamos a otro, ¡solo tienes que pedírmelo otra vez!"
 
 translate spanish strings:
 
     # game/dialogs/script-topics.rpy:3381
     old "Go to another place"
-    new ""
+    new "Ir a otro sitio"
 

@@ -1086,5 +1086,5 @@ translate spanish s_poem_val_b23758a6:
 translate spanish s_poem_val_6a26f1f8:
 
     # s bbagmda "But, I still feel a bit guilty because I think it's not good enough..."
-    s bbagmda ""
+    s bbagmda "Pero, todavía me siento un poco culpable porque creo que no es lo bastante bueno..."
 

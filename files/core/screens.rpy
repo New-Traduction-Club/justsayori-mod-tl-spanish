@@ -292,5 +292,5 @@ translate spanish strings:
 
     # game/core/screens.rpy:804
     old "Random Chatter  "
-    new ""
+    new "Charla aleatoria  "
 

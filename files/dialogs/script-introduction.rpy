@@ -714,11 +714,11 @@ translate spanish strings:
 translate spanish fae_intro_1_181e38ba:
 
     # s abhaaoa "Oh, did I not mention? I think I have access to some of your phone now!"
-    s abhaaoa ""
+    s abhaaoa "¡Oh! ¿No te lo había dicho? ¡Creo que ahora tengo acceso a parte de tu móvil!"
 
 # game/dialogs/script-introduction.rpy:197
 translate spanish fae_intro_2_91d5d773:
 
     # s "I managed to access the internet through your phone’s connection, and spent some time researching how my world works."
-    s ""
+    s "Conseguí acceder a internet a través de la conexión de tu móvil, y pasé algún tiempo investigando cómo funciona mi mundo."
 

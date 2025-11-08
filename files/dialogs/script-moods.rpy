@@ -944,5 +944,5 @@ translate spanish strings:
 translate spanish s_mood_tired_d1c3cdad:
 
     # s bbgciaa "Don't worry about me, I completely understand if you need to spend some time away from the cellphone."
-    s bbgciaa ""
+    s bbgciaa "No te preocupes por mí, entiendo perfectamente si necesitas pasar algún tiempo lejos del móvil."
 
