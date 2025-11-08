@@ -5404,7 +5404,7 @@ translate spanish s_stopic_bulls_and_cows_redux_03cbc4d9:
 translate spanish s_stopic_bulls_and_cows_redux_f879a622:
 
     # s abagaaa "It’s called {i}Bows and Cows{/i}, my version of Bulls and Cows, ehehehe~"
-    s abagaaa "Se llama 'Bows and Cows', mi versión de 'Bulls and Cows', je, je, je."
+    s abagaaa "Se llama 'Moños y Vacas', mi versión de 'Toros y Vacas', je, je, je."
 
 # game/dialogs/script-topics.rpy:2392
 translate spanish s_stopic_bulls_and_cows_redux_7e11c4c6:
@@ -7924,565 +7924,565 @@ translate spanish strings:
 
     # game/dialogs/script-topics.rpy:84
     old "Look for gifts"
-    new ""
+    new "Buscar regalos"
 
     # game/dialogs/script-topics.rpy:84
     old "Gifts"
-    new ""
+    new "Regalos"
 
     # game/dialogs/script-topics.rpy:111
     old "Depression"
-    new ""
+    new "Depresión"
 
     # game/dialogs/script-topics.rpy:111
     old "Personal"
-    new ""
+    new "Personal"
 
     # game/dialogs/script-topics.rpy:185
     old "Childhood memories"
-    new ""
+    new "Recuerdos de la infancia"
 
     # game/dialogs/script-topics.rpy:185
     old "Childhood"
-    new ""
+    new "Infancia"
 
     # game/dialogs/script-topics.rpy:216
     old "Guitar"
-    new ""
+    new "Guitarra"
 
     # game/dialogs/script-topics.rpy:216
     old "Hobby"
-    new ""
+    new "Hobby"
 
     # game/dialogs/script-topics.rpy:251
     old "Thoughts on flowers"
-    new ""
+    new "Opinión sobre las flores"
 
     # game/dialogs/script-topics.rpy:295
     old "Quitting the game."
-    new ""
+    new "Salir del juego."
 
     # game/dialogs/script-topics.rpy:295
     old "Game"
-    new ""
+    new "Juego"
 
     # game/dialogs/script-topics.rpy:329
     old "Personal Intelligence"
-    new ""
+    new "Inteligencia personal"
 
     # game/dialogs/script-topics.rpy:329
     old "Life"
-    new ""
+    new "Vida"
 
     # game/dialogs/script-topics.rpy:329
     old "Society"
-    new ""
+    new "Sociedad"
 
     # game/dialogs/script-topics.rpy:359
     old "Videogames"
-    new ""
+    new "Videojuegos"
 
     # game/dialogs/script-topics.rpy:359
     old "Art"
-    new ""
+    new "Arte"
 
     # game/dialogs/script-topics.rpy:393
     old "Speaking other languages"
-    new ""
+    new "Hablar otros idiomas"
 
     # game/dialogs/script-topics.rpy:393
     old "Languages"
-    new ""
+    new "Idiomas"
 
     # game/dialogs/script-topics.rpy:422
     old "What is your favorite colour?"
-    new ""
+    new "¿Cuál es tu color favorito?"
 
     # game/dialogs/script-topics.rpy:422
     old "Preferences"
-    new ""
+    new "Preferencias"
 
     # game/dialogs/script-topics.rpy:478
     old "He/Him"
-    new ""
+    new "Él"
 
     # game/dialogs/script-topics.rpy:478
     old "She/Her"
-    new ""
+    new "Ella"
 
     # game/dialogs/script-topics.rpy:478
     old "They/Them"
-    new ""
+    new "Otro"
 
     # game/dialogs/script-topics.rpy:497
     old "Pronouns"
-    new ""
+    new "Pronombres"
 
     # game/dialogs/script-topics.rpy:531
     old "The ideal date"
-    new ""
+    new "La cita ideal"
 
     # game/dialogs/script-topics.rpy:531
     old "Romance"
-    new ""
+    new "Romance"
 
     # game/dialogs/script-topics.rpy:573
     old "Cinnamon Buns"
-    new ""
+    new "Bollos de canela"
 
     # game/dialogs/script-topics.rpy:573
     old "Food"
-    new ""
+    new "Comida"
 
     # game/dialogs/script-topics.rpy:598
     old "Literature"
-    new ""
+    new "Literatura"
 
     # game/dialogs/script-topics.rpy:598
     old "DDLC"
-    new ""
+    new "DDLC"
 
     # game/dialogs/script-topics.rpy:628
     old "Drawing"
-    new ""
+    new "Dibujar"
 
     # game/dialogs/script-topics.rpy:659
     old "Bulli-posts"
-    new ""
+    new "Publicaciones de 'bulli'"
 
     # game/dialogs/script-topics.rpy:694
     old "Isolation"
-    new ""
+    new "Aislamiento"
 
     # game/dialogs/script-topics.rpy:731
     old "PSAs"
-    new ""
+    new "Anuncios de servicio público"
 
     # game/dialogs/script-topics.rpy:768
     old "Pets"
-    new ""
+    new "Mascotas"
 
     # game/dialogs/script-topics.rpy:800
     old "Are you good at cooking?"
-    new ""
+    new "¿Se te da bien cocinar?"
 
     # game/dialogs/script-topics.rpy:800
     old "Cooking"
-    new ""
+    new "Cocina"
 
     # game/dialogs/script-topics.rpy:837
     old "What pet would you like to have?"
-    new ""
+    new "¿Qué mascota te gustaría tener?"
 
     # game/dialogs/script-topics.rpy:837
     old "Animals"
-    new ""
+    new "Animales"
 
     # game/dialogs/script-topics.rpy:864
     old "What do you think about cats?"
-    new ""
+    new "¿Qué piensas de los gatos?"
 
     # game/dialogs/script-topics.rpy:888
     old "Archetypes"
-    new ""
+    new "Arquetipos"
 
     # game/dialogs/script-topics.rpy:888
     old "Personality"
-    new ""
+    new "Personalidad"
 
     # game/dialogs/script-topics.rpy:909
     old "You're definitely a genki, if they're as clumsy as you say."
-    new ""
+    new "Definitivamente eres una 'genki', si son tan torpes como dices."
 
     # game/dialogs/script-topics.rpy:925
     old "Voice"
-    new ""
+    new "Voz"
 
     # game/dialogs/script-topics.rpy:990
     old "Charity"
-    new ""
+    new "Caridad"
 
     # game/dialogs/script-topics.rpy:1023
     old "Do you like programming?"
-    new ""
+    new "¿Te gusta programar?"
 
     # game/dialogs/script-topics.rpy:1023
     old "Hobbies"
-    new ""
+    new "Aficiones"
 
     # game/dialogs/script-topics.rpy:1061
     old "Travel"
-    new ""
+    new "Viajar"
 
     # game/dialogs/script-topics.rpy:1061
     old "You"
-    new ""
+    new "Tú"
 
     # game/dialogs/script-topics.rpy:1061
     old "Lifestyle"
-    new ""
+    new "Estilo de vida"
 
     # game/dialogs/script-topics.rpy:1061
     old "Travelling"
-    new ""
+    new "Viajes"
 
     # game/dialogs/script-topics.rpy:1094
     old "Messiness"
-    new ""
+    new "Desorden"
 
     # game/dialogs/script-topics.rpy:1124
     old "Clones"
-    new ""
+    new "Clones"
 
     # game/dialogs/script-topics.rpy:1178
     old "Stars"
-    new ""
+    new "Estrellas"
 
     # game/dialogs/script-topics.rpy:1203
     old "Stop Visiting"
-    new ""
+    new "Dejar de visitar"
 
     # game/dialogs/script-topics.rpy:1238
     old "No Sayori, that won't happen."
-    new ""
+    new "No Sayori, eso no pasará."
 
     # game/dialogs/script-topics.rpy:1244
     old "I promise I'll never leave you"
-    new ""
+    new "Te prometo que nunca te dejaré"
 
     # game/dialogs/script-topics.rpy:1255
     old "Yes, it will be."
-    new ""
+    new "Sí, lo será."
 
     # game/dialogs/script-topics.rpy:1290
     old "Marriage"
-    new ""
+    new "Matrimonio"
 
     # game/dialogs/script-topics.rpy:1331
     old "Presents"
-    new ""
+    new "Regalos"
 
     # game/dialogs/script-topics.rpy:1357
     old "Thank you"
-    new ""
+    new "Gracias"
 
     # game/dialogs/script-topics.rpy:1387
     old "Names"
-    new ""
+    new "Nombres"
 
     # game/dialogs/script-topics.rpy:1420
     old "Fanart"
-    new ""
+    new "Fanart"
 
     # game/dialogs/script-topics.rpy:1444
     old "Touches"
-    new ""
+    new "Caricias"
 
     # game/dialogs/script-topics.rpy:1467
     old "Merch"
-    new ""
+    new "Merch"
 
     # game/dialogs/script-topics.rpy:1491
     old "Oversleeping"
-    new ""
+    new "Quedarse dormida"
 
     # game/dialogs/script-topics.rpy:1526
     old "Game time"
-    new ""
+    new "Hora de jugar"
 
     # game/dialogs/script-topics.rpy:1526
     old "Games"
-    new ""
+    new "Juegos"
 
     # game/dialogs/script-topics.rpy:1558
     old "Game worlds"
-    new ""
+    new "Juegos mundiales"
 
     # game/dialogs/script-topics.rpy:1590
     old "Questions"
-    new ""
+    new "Preguntas"
 
     # game/dialogs/script-topics.rpy:1619
     old "Breakfast"
-    new ""
+    new "Desayuno"
 
     # game/dialogs/script-topics.rpy:1651
     old "Vegetarians"
-    new ""
+    new "Vegetarianos"
 
     # game/dialogs/script-topics.rpy:1678
     old "Pizza"
-    new ""
+    new "Pizza"
 
     # game/dialogs/script-topics.rpy:1709
     old "Ice-cream"
-    new ""
+    new "Helado"
 
     # game/dialogs/script-topics.rpy:1736
     old "Technology"
-    new ""
+    new "Tecnología"
 
     # game/dialogs/script-topics.rpy:1763
     old "Cupcakes"
-    new ""
+    new "Pastelitos"
 
     # game/dialogs/script-topics.rpy:1793
     old "When's your birthday?"
-    new ""
+    new "¿Cuándo es tu cumpleaños?"
 
     # game/dialogs/script-topics.rpy:1820
     old "What kind of music do you like?"
-    new ""
+    new "¿Qué tipo de música te gusta?"
 
     # game/dialogs/script-topics.rpy:1846
     old "What do you think about ships?"
-    new ""
+    new "¿Qué opinas de los 'ships'?"
 
     # game/dialogs/script-topics.rpy:1872
     old "What's your favourite holiday?"
-    new ""
+    new "¿Cuál es tu festividad favorita?"
 
     # game/dialogs/script-topics.rpy:1896
     old "What are your favourite books?"
-    new ""
+    new "¿Cuáles son tus libros favoritos?"
 
     # game/dialogs/script-topics.rpy:1919
     old "What did MC's poems look like to you?"
-    new ""
+    new "¿Qué te parecían los poemas de MC?"
 
     # game/dialogs/script-topics.rpy:1942
     old "Do you love me?"
-    new ""
+    new "¿Me quieres?"
 
     # game/dialogs/script-topics.rpy:1967
     old "Do you believe in god?"
-    new ""
+    new "¿Crees en dios?"
 
     # game/dialogs/script-topics.rpy:1991
     old "What do you think about politics?"
-    new ""
+    new "¿Qué opinas de la política?"
 
     # game/dialogs/script-topics.rpy:2018
     old "Do you like cookies?"
-    new ""
+    new "¿Te gustan las galletas?"
 
     # game/dialogs/script-topics.rpy:2064
     old "What do you think about Chibis?"
-    new ""
+    new "¿Qué opinas de los Chibis?"
 
     # game/dialogs/script-topics.rpy:2107
     old "How do you manipulate the game?"
-    new ""
+    new "¿Cómo manipulas el juego?"
 
     # game/dialogs/script-topics.rpy:2135
     old "What do you think about the real world?"
-    new ""
+    new "¿Qué piensas del mundo real?"
 
     # game/dialogs/script-topics.rpy:2164
     old "Can I read a poem?"
-    new ""
+    new "¿Puedo leer un poema?"
 
     # game/dialogs/script-topics.rpy:2185
     old "What would be your ideal job?"
-    new ""
+    new "¿Cuál sería tu trabajo ideal?"
 
     # game/dialogs/script-topics.rpy:2214
     old "Let's talk about the club members..."
-    new ""
+    new "Hablemos de las miembros del club..."
 
     # game/dialogs/script-topics.rpy:2230
     old "Natsuki"
-    new ""
+    new "Natsuki"
 
     # game/dialogs/script-topics.rpy:2230
     old "Monika"
-    new ""
+    new "Monika"
 
     # game/dialogs/script-topics.rpy:2230
     old "Yuri"
-    new ""
+    new "Yuri"
 
     # game/dialogs/script-topics.rpy:2230
     old "The Protagonist"
-    new ""
+    new "El Protagonista"
 
     # game/dialogs/script-topics.rpy:2316
     old "Do you miss the club members?"
-    new ""
+    new "¿Echas de menos a las miembros del club?"
 
     # game/dialogs/script-topics.rpy:2345
     old "music"
-    new ""
+    new "música"
 
     # game/dialogs/script-topics.rpy:2373
     old "Bulls and Cows"
-    new ""
+    new "Toros y Vacas"
 
     # game/dialogs/script-topics.rpy:2403
     old "Bows & Cows"
-    new ""
+    new "Moños y Vacas"
 
     # game/dialogs/script-topics.rpy:2416
     old "Reversi"
-    new ""
+    new "Reversi"
 
     # game/dialogs/script-topics.rpy:2453
     old "Are you good at programming?"
-    new ""
+    new "¿Se te da bien programar?"
 
     # game/dialogs/script-topics.rpy:2478
     old "Have you ever played visual novels?"
-    new ""
+    new "¿Has jugado alguna vez a novelas visuales?"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip1"
-    new ""
+    new "love_quip1"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip2"
-    new ""
+    new "love_quip2"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip3"
-    new ""
+    new "love_quip3"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip4"
-    new ""
+    new "love_quip4"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip5"
-    new ""
+    new "love_quip5"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip6"
-    new ""
+    new "love_quip6"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip7"
-    new ""
+    new "love_quip7"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip8"
-    new ""
+    new "love_quip8"
 
     # game/dialogs/script-topics.rpy:2568
     old "love_quip9"
-    new ""
+    new "love_quip9"
 
     # game/dialogs/script-topics.rpy:2652
     old "Programming"
-    new ""
+    new "Programación"
 
     # game/dialogs/script-topics.rpy:2680
     old "Do you still think about MC?"
-    new ""
+    new "¿Sigues pensando en MC?"
 
     # game/dialogs/script-topics.rpy:2724
     old "Intrusive thoughts"
-    new ""
+    new "Pensamientos intrusivos"
 
     # game/dialogs/script-topics.rpy:2740
     old "I have them"
-    new ""
+    new "Los tengo"
 
     # game/dialogs/script-topics.rpy:2773
     old "Zombie Apocalypse"
-    new ""
+    new "Apocalipsis zombi"
 
     # game/dialogs/script-topics.rpy:2801
     old "Maybe I would"
-    new ""
+    new "Tal vez lo haría"
 
     # game/dialogs/script-topics.rpy:2801
     old "What? I would never!"
-    new ""
+    new "¿Qué? ¡Jamás lo haría!"
 
     # game/dialogs/script-topics.rpy:2801
     old "I would probably be used as bait too"
-    new ""
+    new "A mí también me usarían de cebo"
 
     # game/dialogs/script-topics.rpy:2828
     old "Alcohol"
-    new ""
+    new "Alcohol"
 
     # game/dialogs/script-topics.rpy:2894
     old "Old Sprites"
-    new ""
+    new "Sprites antiguos"
 
     # game/dialogs/script-topics.rpy:2925
     old "Sayori's Memories"
-    new ""
+    new "Recuerdos de Sayori"
 
     # game/dialogs/script-topics.rpy:2976
     old "Hemispheres."
-    new ""
+    new "Hemisferios."
 
     # game/dialogs/script-topics.rpy:2999
     old "Which hemisphere do you live in, [player]?{fast}"
-    new ""
+    new "¿En qué hemisferio vives, [player]?{fast}"
 
     # game/dialogs/script-topics.rpy:2999
     old "North"
-    new ""
+    new "Norte"
 
     # game/dialogs/script-topics.rpy:2999
     old "South"
-    new ""
+    new "Sur"
 
     # game/dialogs/script-topics.rpy:3018
     old "Gifting."
-    new ""
+    new "Regalos."
 
     # game/dialogs/script-topics.rpy:3046
     old "Boba"
-    new ""
+    new "Boba"
 
     # game/dialogs/script-topics.rpy:3081
     old "Liking flowers"
-    new ""
+    new "Gustar las flores"
 
     # game/dialogs/script-topics.rpy:3151
     old "Monika After Story"
-    new ""
+    new "Monika After Story"
 
     # game/dialogs/script-topics.rpy:3215
     old "Pen Pals"
-    new ""
+    new "Amigos por correspondencia"
 
     # game/dialogs/script-topics.rpy:3247
     old "Place of living"
-    new ""
+    new "Lugar de residencia"
 
     # game/dialogs/script-topics.rpy:3288
     old "Renpystein"
-    new ""
+    new "Renpystein"
 
     # game/dialogs/script-topics.rpy:3288
     old "Secret Games"
-    new ""
+    new "Juegos secretos"
 
     # game/dialogs/script-topics.rpy:3339
     old "Can you remind me how to add custom music?"
-    new ""
+    new "¿Me recuerdas cómo añadir música personalizada?"
 
     # game/dialogs/script-topics.rpy:3361
     old "Change background"
-    new ""
+    new "Ir a otro lado"
 
     # game/dialogs/script-topics.rpy:3361
     old "Location"
-    new ""
+    new "Ubicación"
 
     # game/dialogs/script-topics.rpy:3392
     old "What do you think of me?"
-    new ""
+    new "¿Qué piensas de mí?"
 
     # game/dialogs/script-topics.rpy:3429
     old "Suggest a new outfit"
-    new ""
+    new "Sugerir un nuevo atuendo"
 
     # game/dialogs/script-topics.rpy:3429
     old "Outfit"
-    new ""
+    new "Atuendo"
 
