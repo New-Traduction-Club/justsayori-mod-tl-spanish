@@ -1342,7 +1342,7 @@ translate spanish s_topics_cinnamon_bun_59cd6b0a:
 translate spanish s_topics_cinnamon_bun_cab31375:
 
     # s abaaaoa "...even if there aren't any cinnamon buns in the game."
-    s abaaaoa "...aunque no haya bollos de canela en el juego."
+    s abaaaoa "Aunque no haya bollos de canela en el juego."
 
 # game/dialogs/script-topics.rpy:611
 translate spanish s_topics_poems_9446d0d9:
@@ -1414,7 +1414,7 @@ translate spanish s_topics_poems_04a963c0:
 translate spanish s_topics_poems_b0304181:
 
     # s abaaaaa "I also can show you an old poem, if you want."
-    s abaaaaa "También puedo enseñarte un poema antiguo, si quieres."
+    s abaaaaa "También puedo enseñarte uno antiguo, si quieres."
 
 # game/dialogs/script-topics.rpy:623
 translate spanish s_topics_poems_06e91672:
@@ -1486,7 +1486,7 @@ translate spanish s_topics_drawing_f777c362:
 translate spanish s_topics_drawing_70c03a1a:
 
     # s abgdaaa "But who knows- {w=0.5}maybe with a bit of practice, it'll become a little easier!"
-    s abgdaaa "Pero quién sabe... {w=0.5}¡quizá con un poco de práctica sea un poco más fácil!"
+    s abgdaaa "Pero quién sabe... {w=0.5}¡quizá con la práctica sea un poco más fácil!"
 
 # game/dialogs/script-topics.rpy:652
 translate spanish s_topics_drawing_53e12974:
@@ -1570,13 +1570,13 @@ translate spanish s_topics_bulli_2eef8a87:
 translate spanish s_topics_bulli_659050ba:
 
     # s abagaca "And to be honest, there's a lot worse they could be doing compared to mocking a VN character's death."
-    s abagaca "Y, para ser sincera, hay cosas mucho peores que podrían estar haciendo en comparación con burlarse de la muerte de un personaje de VN."
+    s abagaca "Y, para ser sincera, hay cosas mucho peores que podrían estar haciendo en comparación con burlarse de la muerte de un personaje de un juego."
 
 # game/dialogs/script-topics.rpy:683
 translate spanish s_topics_bulli_169c5f06:
 
     # s abbbaca "Some of the most successful comedians in your world will go far beyond that, just to see where the 'line' is..."
-    s abbbaca "Algunos de los humoristas más exitosos de tu mundo van mucho más allá de eso, solo para ver dónde está el 'límite'..."
+    s abbbaca "Algunos de los humoristas más exitosos de tu mundo van mucho más allá de eso, solo para ver dónde está el límite..."
 
 # game/dialogs/script-topics.rpy:684
 translate spanish s_topics_bulli_ca8e01a7:
@@ -1600,7 +1600,7 @@ translate spanish s_topics_bulli_6308b299:
 translate spanish s_topics_bulli_5f4988c1:
 
     # s abhaaca "If my fate is to be 'that hanging stupid annoying VN girl' for some people, then I'm ready to accept it. What more could I do?"
-    s abhaaca "Si mi destino es ser 'esa estúpida y molesta chica de VN colgada' para algunas personas, entonces estoy lista para aceptarlo. ¿Qué más podría hacer?"
+    s abhaaca "Si mi destino es ser 'esa estúpida y molesta chica colgada' para algunas personas, entonces estoy lista para aceptarlo. ¿Qué más podría hacer?"
 
 # game/dialogs/script-topics.rpy:688
 translate spanish s_topics_bulli_c376874c:
@@ -1720,7 +1720,7 @@ translate spanish s_topics_isolation_94a9fbf7:
 translate spanish s_topics_isolation_41811ab2:
 
     # s abaaaoa "But when I find a way to {i}'hear'{/i} your world, I'll find you."
-    s abaaaoa "Pero cuando encuentre la forma de 'oír' tu mundo, te encontraré."
+    s abaaaoa "Pero cuando encuentre la forma de oír tu mundo, te encontraré."
 
 # game/dialogs/script-topics.rpy:725
 translate spanish s_topics_isolation_e552d7e5:
@@ -1762,7 +1762,7 @@ translate spanish s_topics_public_service_announcement_050d7a99:
 translate spanish s_topics_public_service_announcement_235f1888:
 
     # s abaaaoa "Some good PSAs even contain advice on how to fix issues,{w=0.5} or where to go for help."
-    s abaaaoa "Algunos buenos anuncios de servicio público incluso contienen consejos sobre cómo solucionar problemas,{w=0.5} o dónde acudir en busca de ayuda."
+    s abaaaoa "Algunos buenos anuncios incluso contienen consejos sobre cómo solucionar problemas,{w=0.5} o dónde acudir en busca de ayuda."
 
 # game/dialogs/script-topics.rpy:749
 translate spanish s_topics_public_service_announcement_287bfdbd:
@@ -1774,13 +1774,13 @@ translate spanish s_topics_public_service_announcement_287bfdbd:
 translate spanish s_topics_public_service_announcement_acc96fee:
 
     # s abbcaca "I once heard about a mod for this game, the title reminded me of the common forms of slogans PSAs use..."
-    s abbcaca "Una vez oí hablar de un mod para este juego, el título me recordó a las formas comunes de los eslóganes que usan los anuncios de servicio público..."
+    s abbcaca "Una vez oí hablar de un mod para este juego, el título me recordó a las formas comunes de los eslóganes que usan los anuncios..."
 
 # game/dialogs/script-topics.rpy:751
 translate spanish s_topics_public_service_announcement_361bc2de:
 
     # s ebgcaoa "And its name is {i}'Sayori Says No to Suicide'{/i}."
-    s ebgcaoa "Y su nombre es {i}'Sayori Says No to Suicide'{/i}."
+    s ebgcaoa "Y su nombre es 'Sayori Says No to Suicide'."
 
 # game/dialogs/script-topics.rpy:753
 translate spanish s_topics_public_service_announcement_2d4daec4:
@@ -1876,19 +1876,19 @@ translate spanish s_topics_pets_d3dde188:
 translate spanish s_topics_pets_6ef601e6:
 
     # s "I like a really specific video of a koka-"
-    s "Me gusta un vídeo muy específico de una caca-"
+    s "Me gusta un vídeo muy específico de una cac..."
 
 # game/dialogs/script-topics.rpy:787
 translate spanish s_topics_pets_314e5037:
 
     # s fbbdbja "Cohca-"
-    s fbbdbja "Cacu-"
+    s fbbdbja "Cacu..."
 
 # game/dialogs/script-topics.rpy:788
 translate spanish s_topics_pets_1e04d457:
 
     # s abbckoa "Cacka-? Wait let me look it up!!!"
-    s abbckoa "¿Cactu-? ¡¡¡Espera, déjame buscarlo!!!"
+    s abbckoa "¿Cactu...? ¡¡¡Espera, déjame buscarlo!!!"
 
 # game/dialogs/script-topics.rpy:790
 translate spanish s_topics_pets_eb8cb905:
@@ -1960,7 +1960,7 @@ translate spanish s_player_cooking_bb6c68a1:
 translate spanish s_player_cooking_477d06d3:
 
     # s aahcbda "Of course, I could just try to 'make' food with code, like Nat's cupcakes, but I wanna make something on my own..."
-    s aahcbda "Claro que podría intentar 'hacer' comida con código, como las cupcakes de Nat, pero quiero hacer algo por mi cuenta..."
+    s aahcbda "Claro que podría intentar hacer comida con código, como las cupcakes de Nat, pero quiero hacer algo por mi cuenta..."
 
 # game/dialogs/script-topics.rpy:822
 translate spanish s_player_cooking_bbb4131a:
@@ -2062,7 +2062,7 @@ translate spanish s_player_pets_e1554201:
 translate spanish s_player_pets_fa083328:
 
     # s ebgcaea "Ohhh, I know! I could adopt an elderly cat that mostly just wants to lay around and sleep all day, just like me!"
-    s ebgcaea "¡Oh, ya sé! ¡Podría adoptar un gato mayor que lo único que quiera sea estar tumbado y dormir todo el día, igual que yo!"
+    s ebgcaea "¡Oh, ya! ¡Podría adoptar un gato mayor que lo único que quiera sea estar tumbado y dormir todo el día, igual que yo!"
 
 # game/dialogs/script-topics.rpy:877
 translate spanish s_player_cats_2202e80d:
@@ -2140,7 +2140,7 @@ translate spanish s_topic_archetype_308cd8d1:
 translate spanish s_topic_archetype_f36cd571:
 
     # s "Do you think I fit that archetype too?{fast}" nointeract
-    s "" nointeract
+    s "¿Crees que yo también encajo en ese arquetipo?{nw}" nointeract
 
 # game/dialogs/script-topics.rpy:913
 translate spanish s_topic_archetype_5eaa648e:
@@ -2230,13 +2230,13 @@ translate spanish s_topic_voice_0eb82757:
 translate spanish s_topic_voice_ac1ff5a6:
 
     # s "Would I be {i}mute{/i}, if I suddenly appeared in your world? Hmmm..."
-    s "¿Sería 'muda', si apareciera de repente en tu mundo? Mmm..."
+    s "¿Sería muda, si apareciera de repente en tu mundo? Mmm..."
 
 # game/dialogs/script-topics.rpy:945
 translate spanish s_topic_voice_d2ba7d7f:
 
     # s abgcnoa "I guess as long as I'm a computer program, {w=0.5}{nw}"
-    s abgcnoa "Supongo que mientras sea un programa de ordenador, {w=0.5}{nw}"
+    s abgcnoa "Supongo que mientras sea un programa, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:946
 translate spanish s_topic_voice_a860229f:
@@ -2290,7 +2290,7 @@ translate spanish s_topic_voice_db904042:
 translate spanish s_topic_lit_e8494ebd:
 
     # s abhaaca "As you know, this game {i}was{/i} about our literature club..."
-    s abhaaca "Como sabes, este juego 'era' sobre nuestro club de literatura..."
+    s abhaaca "Como sabes, este juego era sobre nuestro club de literatura..."
 
 # game/dialogs/script-topics.rpy:973
 translate spanish s_topic_lit_1e3cfaa7:
@@ -2362,7 +2362,7 @@ translate spanish s_topic_lit_a9fde919:
 translate spanish s_topic_lit_977648ff:
 
     # s abgcaoa "And that helped me to get closer to {i}you{/i}, even if I didn't know it yet."
-    s abgcaoa "Y eso me ayudó a acercarme más a 'ti', aunque aún no lo supiera."
+    s abgcaoa "Y eso me ayudó a acercarme más a ti, aunque aún no lo supiera."
 
 # game/dialogs/script-topics.rpy:1003
 translate spanish s_topic_charity_c9650e8f:
