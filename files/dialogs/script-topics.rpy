@@ -2434,7 +2434,7 @@ translate spanish s_topic_charity_0090278b:
 translate spanish s_topic_charity_7d0ee8de:
 
     # extend abbccaa "because I want absolutely {i}everyone{/i} to be happy!"
-    extend abbccaa ""
+    extend abbccaa "¡porque quiero que absolutamente todo el mundo sea feliz!"
 
 # game/dialogs/script-topics.rpy:1015
 translate spanish s_topic_charity_7796dee7:
