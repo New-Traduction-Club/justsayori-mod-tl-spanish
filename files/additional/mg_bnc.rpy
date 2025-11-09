@@ -34,7 +34,7 @@ translate spanish mg_bnc_s_comment_a40713db:
 translate spanish mg_bnc_s_comment_b962237c:
 
     # s "You were close to the right answer."
-    s "Estuviste cerca de la respuesta correcta."
+    s "Casi aciertas la respuesta correcta."
 
 # game/additional/mg_bnc.rpy:150
 translate spanish mg_bnc_s_comment_1f187c67:
